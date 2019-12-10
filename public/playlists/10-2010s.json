@@ -1,0 +1,325 @@
+{
+  "name": "10-2010s",
+  "id": "2AQzOSsx2Rv8ofjg613Hrl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/4cae9019efd7a9eaf2eb2d6eaf461614b92c12e8ab67616d0000b27393b094935241b6256e2c90e9c0df37da32cbe3212fbc95fd6863e2e9047b086fd0747e2b961844569ec2f5a3d1e65083f30cf809",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/4cae9019efd7a9eaf2eb2d6eaf461614b92c12e8ab67616d0000b27393b094935241b6256e2c90e9c0df37da32cbe3212fbc95fd6863e2e9047b086fd0747e2b961844569ec2f5a3d1e65083f30cf809",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/4cae9019efd7a9eaf2eb2d6eaf461614b92c12e8ab67616d0000b27393b094935241b6256e2c90e9c0df37da32cbe3212fbc95fd6863e2e9047b086fd0747e2b961844569ec2f5a3d1e65083f30cf809",
+      "width": 60
+    }
+  ],
+  "tracks": [
+    {
+      "rank": 0,
+      "artists": [
+        {
+          "name": "Drake"
+        }
+      ],
+      "features": [],
+      "id": "6LxSe8YmdPxy095Ux6znaQ",
+      "name": "Headlines",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4cae9019efd7a9eaf2eb2d6eaf461614b92c12e8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/24bd37fb33b2c02fa3fad29897b971a118f34d1d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/54c2f39b16b011fec3ad084a3d08ca25415d4cc9",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 1,
+      "artists": [
+        {
+          "name": "JAY-Z"
+        },
+        {
+          "name": "Kanye West"
+        }
+      ],
+      "features": [
+        {
+          "name": "Beyoncé"
+        }
+      ],
+      "id": "4TRUsIZw92IhJjAtxtiC4e",
+      "name": "Lift Off",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c0df37da32cbe3212fbc95fd6863e2e9047b086f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/710773935f23bbb23ddb5386917e8808d8927e27",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9e70cdaf36271d32aa4332cc5eef31a3354632e7",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "artists": [
+        {
+          "name": "Kanye West"
+        }
+      ],
+      "features": [
+        {
+          "name": "Rick Ross"
+        }
+      ],
+      "id": "5CDNl8At4wsDdtnpkFoepd",
+      "name": "Devil In A New Dress",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273019f5ca6f625cb7b06b995a5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02019f5ca6f625cb7b06b995a5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851019f5ca6f625cb7b06b995a5",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "artists": [
+        {
+          "name": "Forth Wanderers"
+        }
+      ],
+      "features": [],
+      "id": "6sGNVYCtUCQn7q9E2lVitB",
+      "name": "Not For Me",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273092f7a5d116e40554df185aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02092f7a5d116e40554df185aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851092f7a5d116e40554df185aa",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "artists": [
+        {
+          "name": "Rihanna"
+        }
+      ],
+      "features": [],
+      "id": "0AH6WMe3OlAlUb5miXt2FQ",
+      "name": "Only Girl (In The World)",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8f36cacda2277e5ec8889c1656a06a5ad4f040ca",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b030d13099b64383be57ab9a7da49270e3f95d10",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/1f20f18b46e166758fbde5be695e38acc36998be",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "artists": [
+        {
+          "name": "DJ Rashad"
+        }
+      ],
+      "features": [
+        {
+          "name": "Spinn"
+        }
+      ],
+      "id": "0Ud1WTJmc7UvZCWdYvohuQ",
+      "name": "Let U No",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a7f10f3ff95478ac1d74f2ae",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a7f10f3ff95478ac1d74f2ae",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a7f10f3ff95478ac1d74f2ae",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "artists": [
+        {
+          "name": "Charli XCX"
+        }
+      ],
+      "features": [
+        {
+          "name": "Kim Petras"
+        },
+        {
+          "name": "Jay Park"
+        }
+      ],
+      "id": "3qGHAKgjQruzj6doKkyEb5",
+      "name": "Unlock It (feat. Kim Petras and Jay Park)",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c61a793955ac590e672eafe8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c61a793955ac590e672eafe8",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "artists": [
+        {
+          "name": "Sigrid"
+        }
+      ],
+      "features": [],
+      "id": "3fJaqjV813edLN5wrxUPkc",
+      "name": "Strangers",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27325ac8d03284749b93259f791",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0225ac8d03284749b93259f791",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485125ac8d03284749b93259f791",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "artists": [
+        {
+          "name": "Frank Ocean"
+        }
+      ],
+      "features": [],
+      "id": "0rbK15g3UsDTVy1EuwgKYz",
+      "name": "Pyramids",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/274280f8c875eadbd0c08bf6bf48bf41803c055e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6eac88510645d7c18278329dfd5e55507f4675d9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b421320c755cb1550d51190fd59d25d3d0930eff",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "artists": [
+        {
+          "name": "Beyoncé"
+        }
+      ],
+      "features": [],
+      "id": "1z6WtY7X4HQJvzxC4UgkSf",
+      "name": "Love On Top",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ff5429125128b43572dbdccd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ff5429125128b43572dbdccd",
+          "width": 64
+        }
+      ]
+    }
+  ]
+}
