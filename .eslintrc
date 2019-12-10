@@ -19,9 +19,10 @@
   },
   "plugins": ["@typescript-eslint/eslint-plugin"],
   "rules": {
+    "prettier/prettier": "error",
     "quotes": [1, "single", {"avoidEscape": true}],
     "arrow-parens": 1,
-    "comma-dangle": [2, "always-multiline"],
+    // "comma-dangle": [2, "always-multiline"],
     "new-cap": 0,
     // "indent": ["error", 2],
     "react/prop-types": 0,
