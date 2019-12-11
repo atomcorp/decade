@@ -28,9 +28,6 @@
       ],
       "features": [
         {
-          "name": "Calvin Harris"
-        },
-        {
           "name": "Young Thug"
         },
         {
@@ -67,11 +64,7 @@
           "name": "Kendrick Lamar"
         }
       ],
-      "features": [
-        {
-          "name": "Kendrick Lamar"
-        }
-      ],
+      "features": [],
       "id": "3GnLo84IkdSWCPYt6tnLll",
       "name": "HUMBLE.",
       "images": [
@@ -99,11 +92,7 @@
           "name": "Sheer Mag"
         }
       ],
-      "features": [
-        {
-          "name": "Sheer Mag"
-        }
-      ],
+      "features": [],
       "id": "4ZJxW7CKMMqPdMJcraa6zZ",
       "name": "Just Can't Get Enough",
       "images": [
@@ -131,11 +120,7 @@
           "name": "Alvvays"
         }
       ],
-      "features": [
-        {
-          "name": "Alvvays"
-        }
-      ],
+      "features": [],
       "id": "4fh4Zjs8KY4LfVUf3JnweG",
       "name": "In Undertow",
       "images": [
@@ -163,11 +148,7 @@
           "name": "Migos"
         }
       ],
-      "features": [
-        {
-          "name": "Migos"
-        }
-      ],
+      "features": [],
       "id": "2HgGPga67UQXWW2JLuYE6E",
       "name": "T-Shirt",
       "images": [
@@ -196,9 +177,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Calvin Harris"
-        },
         {
           "name": "Frank Ocean"
         },
@@ -233,11 +211,7 @@
           "name": "Gorillaz"
         }
       ],
-      "features": [
-        {
-          "name": "Gorillaz"
-        }
-      ],
+      "features": [],
       "id": "0V5zAGdvO780GT3gtdxzLt",
       "name": "Andromeda (feat. DRAM)",
       "images": [
@@ -266,9 +240,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Drake"
-        },
         {
           "name": "Black Coffee"
         },
@@ -303,11 +274,7 @@
           "name": "Lorde"
         }
       ],
-      "features": [
-        {
-          "name": "Lorde"
-        }
-      ],
+      "features": [],
       "id": "1WC5UN1U79gJlxGLYDGIO7",
       "name": "Green Light",
       "images": [
@@ -335,11 +302,7 @@
           "name": "Travis Scott"
         }
       ],
-      "features": [
-        {
-          "name": "Travis Scott"
-        }
-      ],
+      "features": [],
       "id": "1yxgsra98r3qAtxqiGZPiX",
       "name": "BUTTERFLY EFFECT",
       "images": [
@@ -367,11 +330,7 @@
           "name": "The Blaze"
         }
       ],
-      "features": [
-        {
-          "name": "The Blaze"
-        }
-      ],
+      "features": [],
       "id": "5Yy6KD4PMTEqT2LMZEP5f9",
       "name": "Virile",
       "images": [
@@ -399,11 +358,7 @@
           "name": "The xx"
         }
       ],
-      "features": [
-        {
-          "name": "The xx"
-        }
-      ],
+      "features": [],
       "id": "1lIrmWLhL9ivA9nYbpDWBv",
       "name": "Say Something Loving",
       "images": [
@@ -432,9 +387,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Yasutaka Nakata"
-        },
         {
           "name": "Charli XCX"
         },
@@ -469,11 +421,7 @@
           "name": "Vince Staples"
         }
       ],
-      "features": [
-        {
-          "name": "Vince Staples"
-        }
-      ],
+      "features": [],
       "id": "5fIXvEcVEQV5vK3IJapBp3",
       "name": "BagBak",
       "images": [
@@ -502,9 +450,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Drake"
-        },
         {
           "name": "Young Thug"
         }
@@ -537,9 +482,6 @@
         }
       ],
       "features": [
-        {
-          "name": "DJ Khaled"
-        },
         {
           "name": "Beyoncé"
         },
@@ -576,9 +518,6 @@
       ],
       "features": [
         {
-          "name": "Jeremih"
-        },
-        {
           "name": "Chris Brown"
         },
         {
@@ -612,11 +551,7 @@
           "name": "LPX"
         }
       ],
-      "features": [
-        {
-          "name": "LPX"
-        }
-      ],
+      "features": [],
       "id": "5YNz8UGjNzpmn7qHfelkYB",
       "name": "Tightrope",
       "images": [
@@ -644,11 +579,7 @@
           "name": "The Blaze"
         }
       ],
-      "features": [
-        {
-          "name": "The Blaze"
-        }
-      ],
+      "features": [],
       "id": "5rUo1QwNwPrnVloZlQr1H2",
       "name": "Territory",
       "images": [
@@ -677,9 +608,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Zara Larsson"
-        },
         {
           "name": "Ty Dolla $ign"
         }
@@ -711,11 +639,7 @@
           "name": "Stormzy"
         }
       ],
-      "features": [
-        {
-          "name": "Stormzy"
-        }
-      ],
+      "features": [],
       "id": "3uMB82o0qa7erhiZBW9KQC",
       "name": "Big For Your Boots",
       "images": [
@@ -743,11 +667,7 @@
           "name": "Drake"
         }
       ],
-      "features": [
-        {
-          "name": "Drake"
-        }
-      ],
+      "features": [],
       "id": "7hDc8b7IXETo14hHIHdnhd",
       "name": "Passionfruit",
       "images": [
@@ -776,9 +696,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Gorillaz"
-        },
         {
           "name": "Jehnny Beth"
         }
@@ -810,11 +727,7 @@
           "name": "LCD Soundsystem"
         }
       ],
-      "features": [
-        {
-          "name": "LCD Soundsystem"
-        }
-      ],
+      "features": [],
       "id": "5kN6AirSbDRzfFQqCuo1kt",
       "name": "call the police",
       "images": [
@@ -843,9 +756,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Future"
-        },
         {
           "name": "Rihanna"
         }
@@ -879,9 +789,6 @@
       ],
       "features": [
         {
-          "name": "Sean Paul"
-        },
-        {
           "name": "Migos"
         }
       ],
@@ -912,11 +819,7 @@
           "name": "Young Thug"
         }
       ],
-      "features": [
-        {
-          "name": "Young Thug"
-        }
-      ],
+      "features": [],
       "id": "1mB1N8BVAN3BeyOes2uj1E",
       "name": "Take Care",
       "images": [
@@ -945,9 +848,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Lil B"
-        },
         {
           "name": "ILOVEMAKONNEN"
         }
@@ -979,11 +879,7 @@
           "name": "Lorde"
         }
       ],
-      "features": [
-        {
-          "name": "Lorde"
-        }
-      ],
+      "features": [],
       "id": "0dyiHoYbYjYaOEXLpmzQZG",
       "name": "Supercut",
       "images": [
@@ -1011,11 +907,7 @@
           "name": "Arcade Fire"
         }
       ],
-      "features": [
-        {
-          "name": "Arcade Fire"
-        }
-      ],
+      "features": [],
       "id": "07Ugv4TA7PvQfoqetnmLrS",
       "name": "Everything Now",
       "images": [
@@ -1043,11 +935,7 @@
           "name": "Big Boi"
         }
       ],
-      "features": [
-        {
-          "name": "Big Boi"
-        }
-      ],
+      "features": [],
       "id": "2e0cr3SmqCR6Ow6zVCs6pj",
       "name": "All Night",
       "images": [
@@ -1075,11 +963,7 @@
           "name": "Tinashe"
         }
       ],
-      "features": [
-        {
-          "name": "Tinashe"
-        }
-      ],
+      "features": [],
       "id": "4lH5AKFeldnkq8wRikIqWP",
       "name": "Flame",
       "images": [
@@ -1107,11 +991,7 @@
           "name": "Empress Of"
         }
       ],
-      "features": [
-        {
-          "name": "Empress Of"
-        }
-      ],
+      "features": [],
       "id": "7rzUG44EOfiuOrEmpXrMuj",
       "name": "Go to Hell",
       "images": [
@@ -1139,11 +1019,7 @@
           "name": "Julia Michaels"
         }
       ],
-      "features": [
-        {
-          "name": "Julia Michaels"
-        }
-      ],
+      "features": [],
       "id": "0ZExP2I5Ej92PsnG4G1jVG",
       "name": "Uh Huh",
       "images": [
@@ -1171,11 +1047,7 @@
           "name": "Playboi Carti"
         }
       ],
-      "features": [
-        {
-          "name": "Playboi Carti"
-        }
-      ],
+      "features": [],
       "id": "4gUQE7JiIwnQKde4RtKytB",
       "name": "Magnolia",
       "images": [
@@ -1203,11 +1075,7 @@
           "name": "Alvvays"
         }
       ],
-      "features": [
-        {
-          "name": "Alvvays"
-        }
-      ],
+      "features": [],
       "id": "5JfFAeRYIpDxDPeuaPJe8Q",
       "name": "Dreams Tonite",
       "images": [
@@ -1235,11 +1103,7 @@
           "name": "Niki & The Dove"
         }
       ],
-      "features": [
-        {
-          "name": "Niki & The Dove"
-        }
-      ],
+      "features": [],
       "id": "4MN2KeeIVqzBKI0uTW9ntS",
       "name": "Coconut Kiss",
       "images": [
@@ -1273,17 +1137,7 @@
           "name": "The-Dream"
         }
       ],
-      "features": [
-        {
-          "name": "Ty Dolla $ign"
-        },
-        {
-          "name": "Lil Wayne"
-        },
-        {
-          "name": "The-Dream"
-        }
-      ],
+      "features": [],
       "id": "0rlFL6bxIWcCn9gk9GExFA",
       "name": "Love U Better (feat. Lil Wayne & The-Dream)",
       "images": [
@@ -1312,9 +1166,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Big Boi"
-        },
         {
           "name": "Killer Mike"
         },
@@ -1351,9 +1202,6 @@
       ],
       "features": [
         {
-          "name": "Gorillaz"
-        },
-        {
           "name": "Danny Brown"
         },
         {
@@ -1387,11 +1235,7 @@
           "name": "Priests"
         }
       ],
-      "features": [
-        {
-          "name": "Priests"
-        }
-      ],
+      "features": [],
       "id": "5pmswGf4fU7jQq7SlpLK1M",
       "name": "Jj",
       "images": [
@@ -1419,11 +1263,7 @@
           "name": "Alvvays"
         }
       ],
-      "features": [
-        {
-          "name": "Alvvays"
-        }
-      ],
+      "features": [],
       "id": "3jG2qptetPaQlRFFBYU1EK",
       "name": "Saved By A Waif",
       "images": [
@@ -1459,15 +1299,6 @@
       ],
       "features": [
         {
-          "name": "Young Thug"
-        },
-        {
-          "name": "Carnage"
-        },
-        {
-          "name": "Young Stoner Life Records"
-        },
-        {
           "name": "Shakka"
         }
       ],
@@ -1499,9 +1330,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Metro Boomin"
-        },
         {
           "name": "Travis Scott"
         }
@@ -1539,17 +1367,7 @@
           "name": "Empress Of"
         }
       ],
-      "features": [
-        {
-          "name": "DJDS"
-        },
-        {
-          "name": "Khalid"
-        },
-        {
-          "name": "Empress Of"
-        }
-      ],
+      "features": [],
       "id": "53H37Z5dWtXdkltA4zHsE7",
       "name": "Why Don't You Come On",
       "images": [
@@ -1577,11 +1395,7 @@
           "name": "Hannah Jane Lewis"
         }
       ],
-      "features": [
-        {
-          "name": "Hannah Jane Lewis"
-        }
-      ],
+      "features": [],
       "id": "7HTV7S93RNAcjlyMVasDEz",
       "name": "Raincheck",
       "images": [
@@ -1609,11 +1423,7 @@
           "name": "Fever Ray"
         }
       ],
-      "features": [
-        {
-          "name": "Fever Ray"
-        }
-      ],
+      "features": [],
       "id": "65yt8RrFclj2ddhlfI2JyI",
       "name": "To the Moon and Back",
       "images": [
@@ -1642,9 +1452,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Miguel"
-        },
         {
           "name": "Travis Scott"
         }
@@ -1684,15 +1491,6 @@
       ],
       "features": [
         {
-          "name": "21 Savage"
-        },
-        {
-          "name": "Offset"
-        },
-        {
-          "name": "Metro Boomin"
-        },
-        {
           "name": "Travis Scott"
         }
       ],
@@ -1723,11 +1521,7 @@
           "name": "St. Vincent"
         }
       ],
-      "features": [
-        {
-          "name": "St. Vincent"
-        }
-      ],
+      "features": [],
       "id": "5Lc26cde6qDfabliO2Nu4A",
       "name": "New York",
       "images": [
@@ -1755,11 +1549,7 @@
           "name": "Kehlani"
         }
       ],
-      "features": [
-        {
-          "name": "Kehlani"
-        }
-      ],
+      "features": [],
       "id": "2wSQyp6VzUopSFBinRo1iD",
       "name": "Distraction",
       "images": [
@@ -1788,9 +1578,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Clean Bandit"
-        },
         {
           "name": "Zara Larsson"
         }
@@ -1822,11 +1609,7 @@
           "name": "ALASKALASKA"
         }
       ],
-      "features": [
-        {
-          "name": "ALASKALASKA"
-        }
-      ],
+      "features": [],
       "id": "4nOmBz7P5XrzjudWcjil8s",
       "name": "Patience",
       "images": [
@@ -1854,11 +1637,7 @@
           "name": "Wolf Alice"
         }
       ],
-      "features": [
-        {
-          "name": "Wolf Alice"
-        }
-      ],
+      "features": [],
       "id": "1LomCMl5wD3MPVlC6smUHe",
       "name": "Don’t Delete The Kisses",
       "images": [
@@ -1886,11 +1665,7 @@
           "name": "Methyl Ethel"
         }
       ],
-      "features": [
-        {
-          "name": "Methyl Ethel"
-        }
-      ],
+      "features": [],
       "id": "6TAxNHUFD5nbP9pMXlONES",
       "name": "Ubu",
       "images": [
@@ -1919,9 +1694,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Charli XCX"
-        },
         {
           "name": "Dorian Electra"
         },
@@ -1956,11 +1728,7 @@
           "name": "Charli XCX"
         }
       ],
-      "features": [
-        {
-          "name": "Charli XCX"
-        }
-      ],
+      "features": [],
       "id": "4t9PBD27dndlf6YMBK2ROc",
       "name": "Track 10",
       "images": [
@@ -1988,11 +1756,7 @@
           "name": "Rae Morris"
         }
       ],
-      "features": [
-        {
-          "name": "Rae Morris"
-        }
-      ],
+      "features": [],
       "id": "0crJwqcmyzByapkk3mb2Ce",
       "name": "Do It",
       "images": [
@@ -2020,11 +1784,7 @@
           "name": "Migos"
         }
       ],
-      "features": [
-        {
-          "name": "Migos"
-        }
-      ],
+      "features": [],
       "id": "75OIHhnQKXSaz1vpgFeo8g",
       "name": "Stir Fry",
       "images": [
@@ -2058,17 +1818,7 @@
           "name": "Quavo"
         }
       ],
-      "features": [
-        {
-          "name": "Huncho Jack"
-        },
-        {
-          "name": "Travis Scott"
-        },
-        {
-          "name": "Quavo"
-        }
-      ],
+      "features": [],
       "id": "45FMZNp09Z0FMjjOUVGAzm",
       "name": "How U Feel",
       "images": [
@@ -2096,11 +1846,7 @@
           "name": "IDLES"
         }
       ],
-      "features": [
-        {
-          "name": "IDLES"
-        }
-      ],
+      "features": [],
       "id": "5o8mKMW3FJOPXB3AMrczyG",
       "name": "Mother",
       "images": [
@@ -2128,11 +1874,7 @@
           "name": "Sigrid"
         }
       ],
-      "features": [
-        {
-          "name": "Sigrid"
-        }
-      ],
+      "features": [],
       "id": "3fJaqjV813edLN5wrxUPkc",
       "name": "Strangers",
       "images": [
@@ -2163,14 +1905,7 @@
           "name": "French Montana"
         }
       ],
-      "features": [
-        {
-          "name": "Stefflon Don"
-        },
-        {
-          "name": "French Montana"
-        }
-      ],
+      "features": [],
       "id": "76IkF7pA7RscjDTvOFT4vb",
       "name": "Hurtin' Me",
       "images": [
@@ -2198,11 +1933,7 @@
           "name": "Julia Michaels"
         }
       ],
-      "features": [
-        {
-          "name": "Julia Michaels"
-        }
-      ],
+      "features": [],
       "id": "4h1kl6AelZyNFzvtXcRP6y",
       "name": "Uh Huh",
       "images": [
@@ -2230,11 +1961,7 @@
           "name": "Sylvan Esso"
         }
       ],
-      "features": [
-        {
-          "name": "Sylvan Esso"
-        }
-      ],
+      "features": [],
       "id": "5pXVT8Ev8ICTv1bQzMTCKr",
       "name": "Kick Jump Twist",
       "images": [

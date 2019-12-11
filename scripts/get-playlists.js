@@ -77,9 +77,10 @@ const init = async () => {
         return parsePlaylist(playlist, i);
       })
     );
+    // TODO: check folders exist
     playlists.forEach((playlist) => {
       fs.writeFileSync(
-        `./public/playlists/${playlist.name}.json`,
+        `./public/playlists/${playlist.id}.json`,
         JSON.stringify(playlist, null, 2)
       );
     });

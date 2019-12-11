@@ -26,11 +26,7 @@
           "name": "Kim Petras"
         }
       ],
-      "features": [
-        {
-          "name": "Kim Petras"
-        }
-      ],
+      "features": [],
       "id": "7xPzc46jIlrvO5gzazcWMy",
       "name": "Do Me",
       "images": [
@@ -58,11 +54,7 @@
           "name": "Betta Lemme"
         }
       ],
-      "features": [
-        {
-          "name": "Betta Lemme"
-        }
-      ],
+      "features": [],
       "id": "6AR289urelEaw30CPwcUyI",
       "name": "Play",
       "images": [
@@ -90,11 +82,7 @@
           "name": "Caroline Polachek"
         }
       ],
-      "features": [
-        {
-          "name": "Caroline Polachek"
-        }
-      ],
+      "features": [],
       "id": "0x82ZV6zf2o5tOXIbN0aCF",
       "name": "Door",
       "images": [
@@ -122,11 +110,7 @@
           "name": "Mannequin Pussy"
         }
       ],
-      "features": [
-        {
-          "name": "Mannequin Pussy"
-        }
-      ],
+      "features": [],
       "id": "4UBUHPYZG7Xw8oUbJLrEBk",
       "name": "Drunk II",
       "images": [
@@ -155,9 +139,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Blood Orange"
-        },
         {
           "name": "Toro y Moi"
         }
@@ -189,11 +170,7 @@
           "name": "Caroline Polachek"
         }
       ],
-      "features": [
-        {
-          "name": "Caroline Polachek"
-        }
-      ],
+      "features": [],
       "id": "6uEBCC605XCODjtwzae93h",
       "name": "Caroline Shut Up",
       "images": [
@@ -221,11 +198,7 @@
           "name": "NIMMO"
         }
       ],
-      "features": [
-        {
-          "name": "NIMMO"
-        }
-      ],
+      "features": [],
       "id": "2E4tg4nm3mPtUT4ZqXg65d",
       "name": "No More",
       "images": [
@@ -253,11 +226,7 @@
           "name": "Sigrid"
         }
       ],
-      "features": [
-        {
-          "name": "Sigrid"
-        }
-      ],
+      "features": [],
       "id": "1oLSje4Ot5qRUq8FqYeXOl",
       "name": "Don’t Feel Like Crying",
       "images": [
@@ -285,11 +254,7 @@
           "name": "Lizzo"
         }
       ],
-      "features": [
-        {
-          "name": "Lizzo"
-        }
-      ],
+      "features": [],
       "id": "0onslUNmSLDkuYaideYWir",
       "name": "Juice",
       "images": [
@@ -317,11 +282,7 @@
           "name": "ITZY"
         }
       ],
-      "features": [
-        {
-          "name": "ITZY"
-        }
-      ],
+      "features": [],
       "id": "6G7DuXoSGeAf6BZivJdEjF",
       "name": "달라달라 DALLA DALLA",
       "images": [
@@ -350,9 +311,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Kehlani"
-        },
         {
           "name": "Ty Dolla $ign"
         }
@@ -384,11 +342,7 @@
           "name": "Zara Larsson"
         }
       ],
-      "features": [
-        {
-          "name": "Zara Larsson"
-        }
-      ],
+      "features": [],
       "id": "507tQXutCPYNFkpOq8tmKF",
       "name": "Don't Worry Bout Me",
       "images": [
@@ -416,11 +370,7 @@
           "name": "Weyes Blood"
         }
       ],
-      "features": [
-        {
-          "name": "Weyes Blood"
-        }
-      ],
+      "features": [],
       "id": "4ZYFWXoHCIdsdgUdOMK9fr",
       "name": "Movies",
       "images": [
@@ -448,11 +398,7 @@
           "name": "Nilüfer Yanya"
         }
       ],
-      "features": [
-        {
-          "name": "Nilüfer Yanya"
-        }
-      ],
+      "features": [],
       "id": "56kKsNi8xoEwyvBCHaIxsU",
       "name": "Melt",
       "images": [
@@ -480,11 +426,7 @@
           "name": "Weyes Blood"
         }
       ],
-      "features": [
-        {
-          "name": "Weyes Blood"
-        }
-      ],
+      "features": [],
       "id": "1VEF5x1WU1P5FWa7iTLR7V",
       "name": "Something to Believe",
       "images": [
@@ -512,11 +454,7 @@
           "name": "IDLES"
         }
       ],
-      "features": [
-        {
-          "name": "IDLES"
-        }
-      ],
+      "features": [],
       "id": "43QRuzdZ8Rvs77VjRL4n6i",
       "name": "Mercedes Marxist",
       "images": [
@@ -544,11 +482,7 @@
           "name": "Dinosaur Pile-Up"
         }
       ],
-      "features": [
-        {
-          "name": "Dinosaur Pile-Up"
-        }
-      ],
+      "features": [],
       "id": "2NSw8SOcQ6EVLf1QZFMH1h",
       "name": "Thrash Metal Cassette",
       "images": [
@@ -576,11 +510,7 @@
           "name": "Peggy Gou"
         }
       ],
-      "features": [
-        {
-          "name": "Peggy Gou"
-        }
-      ],
+      "features": [],
       "id": "2NeSirLM2VHQW4upn0nMfB",
       "name": "Starry Night - Edit",
       "images": [
@@ -616,15 +546,6 @@
       ],
       "features": [
         {
-          "name": "Jax Jones"
-        },
-        {
-          "name": "Martin Solveig"
-        },
-        {
-          "name": "Madison Beer"
-        },
-        {
           "name": "Europa"
         }
       ],
@@ -655,11 +576,7 @@
           "name": "Jai Paul"
         }
       ],
-      "features": [
-        {
-          "name": "Jai Paul"
-        }
-      ],
+      "features": [],
       "id": "13JjdKeIUy6P916p3MemXn",
       "name": "Do You Love Her Now",
       "images": [
@@ -688,9 +605,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Mark Ronson"
-        },
         {
           "name": "Lykke Li"
         }
@@ -722,11 +636,7 @@
           "name": "Lil Nas X"
         }
       ],
-      "features": [
-        {
-          "name": "Lil Nas X"
-        }
-      ],
+      "features": [],
       "id": "4no0eHn4fEB7tN1yZSXMma",
       "name": "C7osure (You Like)",
       "images": [
@@ -754,11 +664,7 @@
           "name": "Anna Meredith"
         }
       ],
-      "features": [
-        {
-          "name": "Anna Meredith"
-        }
-      ],
+      "features": [],
       "id": "4bafFXVAdbD0MIZ1Uf5yvL",
       "name": "Paramour",
       "images": [
@@ -786,11 +692,7 @@
           "name": "Pongo"
         }
       ],
-      "features": [
-        {
-          "name": "Pongo"
-        }
-      ],
+      "features": [],
       "id": "67bppzPyY0uEvnDIdjzFq9",
       "name": "Tambulaya",
       "images": [
@@ -818,11 +720,7 @@
           "name": "Squid"
         }
       ],
-      "features": [
-        {
-          "name": "Squid"
-        }
-      ],
+      "features": [],
       "id": "3Q1Q4dftyBYbcCa0YFIhUD",
       "name": "Houseplants",
       "images": [
@@ -850,11 +748,7 @@
           "name": "Bobby Krlic"
         }
       ],
-      "features": [
-        {
-          "name": "Bobby Krlic"
-        }
-      ],
+      "features": [],
       "id": "3gW27yBKGV7eC4XWzZLnn7",
       "name": "Fire Temple",
       "images": [
@@ -882,11 +776,7 @@
           "name": "Thom Yorke"
         }
       ],
-      "features": [
-        {
-          "name": "Thom Yorke"
-        }
-      ],
+      "features": [],
       "id": "0F4EoaMJmWNz8vS8tKgsqY",
       "name": "Dawn Chorus",
       "images": [
@@ -917,14 +807,7 @@
           "name": "Sky Ferreira"
         }
       ],
-      "features": [
-        {
-          "name": "Charli XCX"
-        },
-        {
-          "name": "Sky Ferreira"
-        }
-      ],
+      "features": [],
       "id": "4Il330n53GprIcAO2GzwTN",
       "name": "Cross You Out (feat. Sky Ferreira)",
       "images": [
@@ -953,9 +836,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Young Thug"
-        },
         {
           "name": "Juice WRLD"
         }
@@ -987,11 +867,7 @@
           "name": "Rico Nasty"
         }
       ],
-      "features": [
-        {
-          "name": "Rico Nasty"
-        }
-      ],
+      "features": [],
       "id": "2QXB9GugNcZqXrDXYowISU",
       "name": "Time Flies",
       "images": [
@@ -1024,12 +900,6 @@
       ],
       "features": [
         {
-          "name": "Headie One"
-        },
-        {
-          "name": "Skepta"
-        },
-        {
           "name": "Floating Points"
         }
       ],
@@ -1060,11 +930,7 @@
           "name": "Hayley Kiyoko"
         }
       ],
-      "features": [
-        {
-          "name": "Hayley Kiyoko"
-        }
-      ],
+      "features": [],
       "id": "3g2TGdc44s5ejDlDNVYC6g",
       "name": "I Wish",
       "images": [
@@ -1092,11 +958,7 @@
           "name": "February Montaine"
         }
       ],
-      "features": [
-        {
-          "name": "February Montaine"
-        }
-      ],
+      "features": [],
       "id": "5X1vE8rEc7dwydTM9mgtLB",
       "name": "Kubler Rosa",
       "images": [
@@ -1124,11 +986,7 @@
           "name": "Tyler, The Creator"
         }
       ],
-      "features": [
-        {
-          "name": "Tyler, The Creator"
-        }
-      ],
+      "features": [],
       "id": "5TxRUOsGeWeRl3xOML59Ai",
       "name": "ARE WE STILL FRIENDS?",
       "images": [
@@ -1156,11 +1014,7 @@
           "name": "Fever Ray"
         }
       ],
-      "features": [
-        {
-          "name": "Fever Ray"
-        }
-      ],
+      "features": [],
       "id": "1H42oqwHfdjSMHOcAiPfWY",
       "name": "I'm Not Done - Still Not Done Mix",
       "images": [
@@ -1191,14 +1045,7 @@
           "name": "Kylie Minogue"
         }
       ],
-      "features": [
-        {
-          "name": "Tove Lo"
-        },
-        {
-          "name": "Kylie Minogue"
-        }
-      ],
+      "features": [],
       "id": "1k2BsR31RvvmQzINmvbNay",
       "name": "Really don’t like u",
       "images": [
@@ -1226,11 +1073,7 @@
           "name": "Schacke"
         }
       ],
-      "features": [
-        {
-          "name": "Schacke"
-        }
-      ],
+      "features": [],
       "id": "0JK5Dq2DioG900WJ7PvDni",
       "name": "Kisloty People",
       "images": [
@@ -1259,9 +1102,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Wuh Oh"
-        },
         {
           "name": "Hudson Mohawke"
         }
@@ -1293,11 +1133,7 @@
           "name": "Madison Beer"
         }
       ],
-      "features": [
-        {
-          "name": "Madison Beer"
-        }
-      ],
+      "features": [],
       "id": "0L1IszgjzIZRBENyHJTQms",
       "name": "Dear Society",
       "images": [
@@ -1325,11 +1161,7 @@
           "name": "Coldplay"
         }
       ],
-      "features": [
-        {
-          "name": "Coldplay"
-        }
-      ],
+      "features": [],
       "id": "6YQlCOZnlFmqeciAh58fDE",
       "name": "Orphans",
       "images": [
@@ -1357,11 +1189,7 @@
           "name": "Floating Points"
         }
       ],
-      "features": [
-        {
-          "name": "Floating Points"
-        }
-      ],
+      "features": [],
       "id": "3rkJH9BaiCWpRY718WTkBP",
       "name": "Falaise",
       "images": [
@@ -1389,11 +1217,7 @@
           "name": "Kanye West"
         }
       ],
-      "features": [
-        {
-          "name": "Kanye West"
-        }
-      ],
+      "features": [],
       "id": "2SasoXZyv82yYgHiVOvxQn",
       "name": "On God",
       "images": [
@@ -1421,11 +1245,7 @@
           "name": "BENEE"
         }
       ],
-      "features": [
-        {
-          "name": "BENEE"
-        }
-      ],
+      "features": [],
       "id": "7srhWu501PlhDz0FcLdvzt",
       "name": "Monsta",
       "images": [
@@ -1453,11 +1273,7 @@
           "name": "Travis Scott"
         }
       ],
-      "features": [
-        {
-          "name": "Travis Scott"
-        }
-      ],
+      "features": [],
       "id": "3eekarcy7kvN4yt5ZFzltW",
       "name": "HIGHEST IN THE ROOM",
       "images": [
@@ -1486,9 +1302,6 @@
         }
       ],
       "features": [
-        {
-          "name": "Naar"
-        },
         {
           "name": "Madd"
         },
@@ -1528,9 +1341,6 @@
       ],
       "features": [
         {
-          "name": "Vishal-Shekhar"
-        },
-        {
           "name": "Vishal Dadlani"
         }
       ],
@@ -1561,11 +1371,7 @@
           "name": "BENEE"
         }
       ],
-      "features": [
-        {
-          "name": "BENEE"
-        }
-      ],
+      "features": [],
       "id": "7IoV5eGR85wUOXjninlmNu",
       "name": "Want Me Back",
       "images": [
@@ -1596,14 +1402,7 @@
           "name": "Bad Bunny"
         }
       ],
-      "features": [
-        {
-          "name": "J Balvin"
-        },
-        {
-          "name": "Bad Bunny"
-        }
-      ],
+      "features": [],
       "id": "0fea68AdmYNygeTGI4RC18",
       "name": "LA CANCIÓN",
       "images": [
@@ -1631,11 +1430,7 @@
           "name": "The Weeknd"
         }
       ],
-      "features": [
-        {
-          "name": "The Weeknd"
-        }
-      ],
+      "features": [],
       "id": "0sf12qNH5qcw8qpgymFOqD",
       "name": "Blinding Lights",
       "images": [
@@ -1663,11 +1458,7 @@
           "name": "Naira Marley"
         }
       ],
-      "features": [
-        {
-          "name": "Naira Marley"
-        }
-      ],
+      "features": [],
       "id": "67Ar5yu8mH1rOVInvnsG0U",
       "name": "Soapy",
       "images": [
