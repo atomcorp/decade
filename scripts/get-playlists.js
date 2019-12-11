@@ -20,6 +20,12 @@ const authOptions = {
   json: true,
 };
 
+// const stats = {
+//   artistsFeatured: [],
+// };
+
+// const getStats = () => {};
+
 const parsePlaylist = (playlist) => {
   return {
     name: playlist.name,
