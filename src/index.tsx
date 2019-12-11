@@ -18,7 +18,8 @@ const cache = createCache(
     return action.method === 'GET';
   },
   (response: QueryResponse & {timestamp: number}) => {
-    return new Date().getTime() - response.timestamp < 10000;
+    // return cache if the previous request was a success
+    return response.status === 200;
   }
 );
 
