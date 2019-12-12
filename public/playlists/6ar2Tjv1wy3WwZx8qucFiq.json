@@ -23,7 +23,8 @@
       "rank": 0,
       "artists": [
         {
-          "name": "Calvin Harris"
+          "name": "Calvin Harris",
+          "id": "7CajNmpbOovFoOoasH2HaY"
         }
       ],
       "features": [
@@ -61,7 +62,8 @@
       "rank": 1,
       "artists": [
         {
-          "name": "Kendrick Lamar"
+          "name": "Kendrick Lamar",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "features": [],
@@ -89,7 +91,8 @@
       "rank": 2,
       "artists": [
         {
-          "name": "Sheer Mag"
+          "name": "Sheer Mag",
+          "id": "58ehndX799ZV9Jcv6IefJ1"
         }
       ],
       "features": [],
@@ -117,7 +120,8 @@
       "rank": 3,
       "artists": [
         {
-          "name": "Alvvays"
+          "name": "Alvvays",
+          "id": "3kzwYV3OCB010YfXMF0Avt"
         }
       ],
       "features": [],
@@ -145,7 +149,8 @@
       "rank": 4,
       "artists": [
         {
-          "name": "Migos"
+          "name": "Migos",
+          "id": "6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
       "features": [],
@@ -173,7 +178,8 @@
       "rank": 5,
       "artists": [
         {
-          "name": "Calvin Harris"
+          "name": "Calvin Harris",
+          "id": "7CajNmpbOovFoOoasH2HaY"
         }
       ],
       "features": [
@@ -208,7 +214,8 @@
       "rank": 6,
       "artists": [
         {
-          "name": "Gorillaz"
+          "name": "Gorillaz",
+          "id": "3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
       "features": [],
@@ -236,7 +243,8 @@
       "rank": 7,
       "artists": [
         {
-          "name": "Drake"
+          "name": "Drake",
+          "id": "3TVXtAsR1Inumwj472S9r4"
         }
       ],
       "features": [
@@ -271,7 +279,8 @@
       "rank": 8,
       "artists": [
         {
-          "name": "Lorde"
+          "name": "Lorde",
+          "id": "163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
       "features": [],
@@ -299,7 +308,8 @@
       "rank": 9,
       "artists": [
         {
-          "name": "Travis Scott"
+          "name": "Travis Scott",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
       "features": [],
@@ -327,7 +337,8 @@
       "rank": 10,
       "artists": [
         {
-          "name": "The Blaze"
+          "name": "The Blaze",
+          "id": "1Dt1UKLtrJIW1xxRBejjos"
         }
       ],
       "features": [],
@@ -355,7 +366,8 @@
       "rank": 11,
       "artists": [
         {
-          "name": "The xx"
+          "name": "The xx",
+          "id": "3iOvXCl6edW5Um0fXEBRXy"
         }
       ],
       "features": [],
@@ -383,7 +395,8 @@
       "rank": 12,
       "artists": [
         {
-          "name": "Yasutaka Nakata"
+          "name": "Yasutaka Nakata",
+          "id": "2qNI3aGlywRzTkRBOy9YzG"
         }
       ],
       "features": [
@@ -418,7 +431,8 @@
       "rank": 13,
       "artists": [
         {
-          "name": "Vince Staples"
+          "name": "Vince Staples",
+          "id": "68kEuyFKyqrdQQLLsmiatm"
         }
       ],
       "features": [],
@@ -446,7 +460,8 @@
       "rank": 14,
       "artists": [
         {
-          "name": "Drake"
+          "name": "Drake",
+          "id": "3TVXtAsR1Inumwj472S9r4"
         }
       ],
       "features": [
@@ -478,7 +493,8 @@
       "rank": 15,
       "artists": [
         {
-          "name": "DJ Khaled"
+          "name": "DJ Khaled",
+          "id": "0QHgL1lAIqAw0HtD7YldmP"
         }
       ],
       "features": [
@@ -513,7 +529,8 @@
       "rank": 16,
       "artists": [
         {
-          "name": "Jeremih"
+          "name": "Jeremih",
+          "id": "3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
       "features": [
@@ -548,7 +565,8 @@
       "rank": 17,
       "artists": [
         {
-          "name": "LPX"
+          "name": "LPX",
+          "id": "7xmK7SfecrmjqsiIoSa1uf"
         }
       ],
       "features": [],
@@ -576,7 +594,8 @@
       "rank": 18,
       "artists": [
         {
-          "name": "The Blaze"
+          "name": "The Blaze",
+          "id": "1Dt1UKLtrJIW1xxRBejjos"
         }
       ],
       "features": [],
@@ -604,7 +623,8 @@
       "rank": 19,
       "artists": [
         {
-          "name": "Zara Larsson"
+          "name": "Zara Larsson",
+          "id": "1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
       "features": [
@@ -636,7 +656,8 @@
       "rank": 20,
       "artists": [
         {
-          "name": "Stormzy"
+          "name": "Stormzy",
+          "id": "2SrSdSvpminqmStGELCSNd"
         }
       ],
       "features": [],
@@ -664,7 +685,8 @@
       "rank": 21,
       "artists": [
         {
-          "name": "Drake"
+          "name": "Drake",
+          "id": "3TVXtAsR1Inumwj472S9r4"
         }
       ],
       "features": [],
@@ -692,7 +714,8 @@
       "rank": 22,
       "artists": [
         {
-          "name": "Gorillaz"
+          "name": "Gorillaz",
+          "id": "3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
       "features": [
@@ -724,7 +747,8 @@
       "rank": 23,
       "artists": [
         {
-          "name": "LCD Soundsystem"
+          "name": "LCD Soundsystem",
+          "id": "066X20Nz7iquqkkCW6Jxy6"
         }
       ],
       "features": [],
@@ -752,7 +776,8 @@
       "rank": 24,
       "artists": [
         {
-          "name": "Future"
+          "name": "Future",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
       "features": [
@@ -784,7 +809,8 @@
       "rank": 25,
       "artists": [
         {
-          "name": "Sean Paul"
+          "name": "Sean Paul",
+          "id": "3Isy6kedDrgPYoTS1dazA9"
         }
       ],
       "features": [
@@ -816,7 +842,8 @@
       "rank": 26,
       "artists": [
         {
-          "name": "Young Thug"
+          "name": "Young Thug",
+          "id": "50co4Is1HCEo8bhOyUWKpn"
         }
       ],
       "features": [],
@@ -844,7 +871,8 @@
       "rank": 27,
       "artists": [
         {
-          "name": "Lil B"
+          "name": "Lil B",
+          "id": "4bbjivSh1oG4NOc7uYHfw5"
         }
       ],
       "features": [
@@ -876,7 +904,8 @@
       "rank": 28,
       "artists": [
         {
-          "name": "Lorde"
+          "name": "Lorde",
+          "id": "163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
       "features": [],
@@ -904,7 +933,8 @@
       "rank": 29,
       "artists": [
         {
-          "name": "Arcade Fire"
+          "name": "Arcade Fire",
+          "id": "3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
       "features": [],
@@ -932,7 +962,8 @@
       "rank": 30,
       "artists": [
         {
-          "name": "Big Boi"
+          "name": "Big Boi",
+          "id": "2ht3wxeT69CzyKFChNnNAB"
         }
       ],
       "features": [],
@@ -960,7 +991,8 @@
       "rank": 31,
       "artists": [
         {
-          "name": "Tinashe"
+          "name": "Tinashe",
+          "id": "0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
       "features": [],
@@ -988,7 +1020,8 @@
       "rank": 32,
       "artists": [
         {
-          "name": "Empress Of"
+          "name": "Empress Of",
+          "id": "5QuBVnBPEzwYvFrgBbwpmU"
         }
       ],
       "features": [],
@@ -1016,7 +1049,8 @@
       "rank": 33,
       "artists": [
         {
-          "name": "Julia Michaels"
+          "name": "Julia Michaels",
+          "id": "0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
       "features": [],
@@ -1044,7 +1078,8 @@
       "rank": 34,
       "artists": [
         {
-          "name": "Playboi Carti"
+          "name": "Playboi Carti",
+          "id": "699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "features": [],
@@ -1072,7 +1107,8 @@
       "rank": 35,
       "artists": [
         {
-          "name": "Alvvays"
+          "name": "Alvvays",
+          "id": "3kzwYV3OCB010YfXMF0Avt"
         }
       ],
       "features": [],
@@ -1100,7 +1136,8 @@
       "rank": 36,
       "artists": [
         {
-          "name": "Niki & The Dove"
+          "name": "Niki & The Dove",
+          "id": "4hiLNlqr4vQdiuo1aQKSXS"
         }
       ],
       "features": [],
@@ -1128,13 +1165,16 @@
       "rank": 37,
       "artists": [
         {
-          "name": "Ty Dolla $ign"
+          "name": "Ty Dolla $ign",
+          "id": "7c0XG5cIJTrrAgEC3ULPiq"
         },
         {
-          "name": "Lil Wayne"
+          "name": "Lil Wayne",
+          "id": "55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "The-Dream"
+          "name": "The-Dream",
+          "id": "1W3FSF1BLpY3hlVIgvenLz"
         }
       ],
       "features": [],
@@ -1162,7 +1202,8 @@
       "rank": 38,
       "artists": [
         {
-          "name": "Big Boi"
+          "name": "Big Boi",
+          "id": "2ht3wxeT69CzyKFChNnNAB"
         }
       ],
       "features": [
@@ -1197,7 +1238,8 @@
       "rank": 39,
       "artists": [
         {
-          "name": "Gorillaz"
+          "name": "Gorillaz",
+          "id": "3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
       "features": [
@@ -1232,7 +1274,8 @@
       "rank": 40,
       "artists": [
         {
-          "name": "Priests"
+          "name": "Priests",
+          "id": "5DT78nxI4rAHYddufPUOBx"
         }
       ],
       "features": [],
@@ -1260,7 +1303,8 @@
       "rank": 41,
       "artists": [
         {
-          "name": "Alvvays"
+          "name": "Alvvays",
+          "id": "3kzwYV3OCB010YfXMF0Avt"
         }
       ],
       "features": [],
@@ -1288,13 +1332,16 @@
       "rank": 42,
       "artists": [
         {
-          "name": "Young Thug"
+          "name": "Young Thug",
+          "id": "50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "Carnage"
+          "name": "Carnage",
+          "id": "7CCjtD0hCK005Bvg2WG1a7"
         },
         {
-          "name": "Young Stoner Life Records"
+          "name": "Young Stoner Life Records",
+          "id": "1xr2G8Hlx4QWmT9HaUbmoO"
         }
       ],
       "features": [
@@ -1326,7 +1373,8 @@
       "rank": 43,
       "artists": [
         {
-          "name": "Metro Boomin"
+          "name": "Metro Boomin",
+          "id": "0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
       "features": [
@@ -1358,13 +1406,16 @@
       "rank": 44,
       "artists": [
         {
-          "name": "DJDS"
+          "name": "DJDS",
+          "id": "0orEyXhG0KnPEDVgpctNJI"
         },
         {
-          "name": "Khalid"
+          "name": "Khalid",
+          "id": "6LuN9FCkKOj5PcnpouEgny"
         },
         {
-          "name": "Empress Of"
+          "name": "Empress Of",
+          "id": "5QuBVnBPEzwYvFrgBbwpmU"
         }
       ],
       "features": [],
@@ -1392,7 +1443,8 @@
       "rank": 45,
       "artists": [
         {
-          "name": "Hannah Jane Lewis"
+          "name": "Hannah Jane Lewis",
+          "id": "62ih54WQXcbwFrvhffPxcq"
         }
       ],
       "features": [],
@@ -1420,7 +1472,8 @@
       "rank": 46,
       "artists": [
         {
-          "name": "Fever Ray"
+          "name": "Fever Ray",
+          "id": "5hE6NCoobhyEu6TRSbjOJY"
         }
       ],
       "features": [],
@@ -1448,7 +1501,8 @@
       "rank": 47,
       "artists": [
         {
-          "name": "Miguel"
+          "name": "Miguel",
+          "id": "360IAlyVv4PCEVjgyMZrxK"
         }
       ],
       "features": [
@@ -1480,13 +1534,16 @@
       "rank": 48,
       "artists": [
         {
-          "name": "21 Savage"
+          "name": "21 Savage",
+          "id": "1URnnhqYAYcrqrcwql10ft"
         },
         {
-          "name": "Offset"
+          "name": "Offset",
+          "id": "4DdkRBBYG6Yk9Ka8tdJ9BW"
         },
         {
-          "name": "Metro Boomin"
+          "name": "Metro Boomin",
+          "id": "0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
       "features": [
@@ -1518,7 +1575,8 @@
       "rank": 49,
       "artists": [
         {
-          "name": "St. Vincent"
+          "name": "St. Vincent",
+          "id": "7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
       "features": [],
@@ -1546,7 +1604,8 @@
       "rank": 50,
       "artists": [
         {
-          "name": "Kehlani"
+          "name": "Kehlani",
+          "id": "0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
       "features": [],
@@ -1574,7 +1633,8 @@
       "rank": 51,
       "artists": [
         {
-          "name": "Clean Bandit"
+          "name": "Clean Bandit",
+          "id": "6MDME20pz9RveH9rEXvrOM"
         }
       ],
       "features": [
@@ -1606,7 +1666,8 @@
       "rank": 52,
       "artists": [
         {
-          "name": "ALASKALASKA"
+          "name": "ALASKALASKA",
+          "id": "78CgVNlDQMvOVDIrRL84tJ"
         }
       ],
       "features": [],
@@ -1634,7 +1695,8 @@
       "rank": 53,
       "artists": [
         {
-          "name": "Wolf Alice"
+          "name": "Wolf Alice",
+          "id": "3btzEQD6sugImIHPMRgkwV"
         }
       ],
       "features": [],
@@ -1662,7 +1724,8 @@
       "rank": 54,
       "artists": [
         {
-          "name": "Methyl Ethel"
+          "name": "Methyl Ethel",
+          "id": "3I3Fz1DeUY0icXFvOjbXm7"
         }
       ],
       "features": [],
@@ -1690,7 +1753,8 @@
       "rank": 55,
       "artists": [
         {
-          "name": "Charli XCX"
+          "name": "Charli XCX",
+          "id": "25uiPmTg16RbhZWAqwLBy5"
         }
       ],
       "features": [
@@ -1725,7 +1789,8 @@
       "rank": 56,
       "artists": [
         {
-          "name": "Charli XCX"
+          "name": "Charli XCX",
+          "id": "25uiPmTg16RbhZWAqwLBy5"
         }
       ],
       "features": [],
@@ -1753,7 +1818,8 @@
       "rank": 57,
       "artists": [
         {
-          "name": "Rae Morris"
+          "name": "Rae Morris",
+          "id": "67xyhWIvYQK5qr6b0gElst"
         }
       ],
       "features": [],
@@ -1781,7 +1847,8 @@
       "rank": 58,
       "artists": [
         {
-          "name": "Migos"
+          "name": "Migos",
+          "id": "6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
       "features": [],
@@ -1809,13 +1876,16 @@
       "rank": 59,
       "artists": [
         {
-          "name": "Huncho Jack"
+          "name": "Huncho Jack",
+          "id": "6extd4B6hl8VTmnlhpl2bY"
         },
         {
-          "name": "Travis Scott"
+          "name": "Travis Scott",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Quavo"
+          "name": "Quavo",
+          "id": "0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
       "features": [],
@@ -1843,7 +1913,8 @@
       "rank": 60,
       "artists": [
         {
-          "name": "IDLES"
+          "name": "IDLES",
+          "id": "75mafsNqNE1WSEVxIKuY5C"
         }
       ],
       "features": [],
@@ -1871,7 +1942,8 @@
       "rank": 61,
       "artists": [
         {
-          "name": "Sigrid"
+          "name": "Sigrid",
+          "id": "4TrraAsitQKl821DQY42cZ"
         }
       ],
       "features": [],
@@ -1899,10 +1971,12 @@
       "rank": 62,
       "artists": [
         {
-          "name": "Stefflon Don"
+          "name": "Stefflon Don",
+          "id": "2ExGrw6XpbtUAJHTLtUXUD"
         },
         {
-          "name": "French Montana"
+          "name": "French Montana",
+          "id": "6vXTefBL93Dj5IqAWq6OTv"
         }
       ],
       "features": [],
@@ -1930,7 +2004,8 @@
       "rank": 63,
       "artists": [
         {
-          "name": "Julia Michaels"
+          "name": "Julia Michaels",
+          "id": "0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
       "features": [],
@@ -1958,7 +2033,8 @@
       "rank": 64,
       "artists": [
         {
-          "name": "Sylvan Esso"
+          "name": "Sylvan Esso",
+          "id": "39vA9YljbnOApXKniLWBZv"
         }
       ],
       "features": [],

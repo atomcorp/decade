@@ -23,7 +23,8 @@
       "rank": 0,
       "artists": [
         {
-          "name": "Various Artists"
+          "name": "Various Artists",
+          "id": "0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
       "features": [
@@ -64,7 +65,8 @@
       "rank": 1,
       "artists": [
         {
-          "name": "Mapei"
+          "name": "Mapei",
+          "id": "6baWjwY7WiVPCZcW7pqqhz"
         }
       ],
       "features": [],
@@ -92,7 +94,8 @@
       "rank": 2,
       "artists": [
         {
-          "name": "Vic Mensa"
+          "name": "Vic Mensa",
+          "id": "27w1NoOLMX7tJMYqcetPyG"
         }
       ],
       "features": [],
@@ -120,7 +123,8 @@
       "rank": 3,
       "artists": [
         {
-          "name": "Rustie"
+          "name": "Rustie",
+          "id": "6YGu0Rv2120wkc4AXZSGgl"
         }
       ],
       "features": [
@@ -152,7 +156,8 @@
       "rank": 4,
       "artists": [
         {
-          "name": "Rita Ora"
+          "name": "Rita Ora",
+          "id": "5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
       "features": [],
@@ -180,7 +185,8 @@
       "rank": 5,
       "artists": [
         {
-          "name": "Foxes"
+          "name": "Foxes",
+          "id": "7qRll6DYV06u2VuRPAVqug"
         }
       ],
       "features": [],
@@ -208,7 +214,8 @@
       "rank": 6,
       "artists": [
         {
-          "name": "Avey Tare's Slasher Flicks"
+          "name": "Avey Tare's Slasher Flicks",
+          "id": "1sY7Ak1Ygf2ZqmiZPTkZw5"
         }
       ],
       "features": [],
@@ -236,7 +243,8 @@
       "rank": 7,
       "artists": [
         {
-          "name": "Kiesza"
+          "name": "Kiesza",
+          "id": "4zxvC7CRGvggq9EWXOpwAo"
         }
       ],
       "features": [],
@@ -264,7 +272,8 @@
       "rank": 8,
       "artists": [
         {
-          "name": "Indiana"
+          "name": "Indiana",
+          "id": "7a5Srm7U661DotL6VWRmYk"
         }
       ],
       "features": [],
@@ -292,7 +301,8 @@
       "rank": 9,
       "artists": [
         {
-          "name": "Clean Bandit"
+          "name": "Clean Bandit",
+          "id": "6MDME20pz9RveH9rEXvrOM"
         }
       ],
       "features": [
@@ -324,7 +334,8 @@
       "rank": 10,
       "artists": [
         {
-          "name": "Jungle"
+          "name": "Jungle",
+          "id": "59oA5WbbQvomJz2BuRG071"
         }
       ],
       "features": [],
@@ -352,7 +363,8 @@
       "rank": 11,
       "artists": [
         {
-          "name": "Fuse ODG"
+          "name": "Fuse ODG",
+          "id": "374sWpAJsbZckf98df2jJJ"
         }
       ],
       "features": [
@@ -384,7 +396,8 @@
       "rank": 12,
       "artists": [
         {
-          "name": "Klaxons"
+          "name": "Klaxons",
+          "id": "2qlAMLpUyBjZgnzuFXXZXI"
         }
       ],
       "features": [],
@@ -412,7 +425,8 @@
       "rank": 13,
       "artists": [
         {
-          "name": "Justin Bieber"
+          "name": "Justin Bieber",
+          "id": "1uNFoZAHBGtllmzznpCI3s"
         }
       ],
       "features": [
@@ -444,7 +458,8 @@
       "rank": 14,
       "artists": [
         {
-          "name": "Jake Bugg"
+          "name": "Jake Bugg",
+          "id": "4hf3caW9H8uFwwbv5pFjcg"
         }
       ],
       "features": [],
@@ -472,7 +487,8 @@
       "rank": 15,
       "artists": [
         {
-          "name": "Duck Sauce"
+          "name": "Duck Sauce",
+          "id": "0q8J3Yj810t5cpAYEJ7gxt"
         }
       ],
       "features": [],
@@ -500,7 +516,8 @@
       "rank": 16,
       "artists": [
         {
-          "name": "FKA twigs"
+          "name": "FKA twigs",
+          "id": "6nB0iY1cjSY1KyhYyuIIKH"
         }
       ],
       "features": [],
@@ -528,7 +545,8 @@
       "rank": 17,
       "artists": [
         {
-          "name": "Operators"
+          "name": "Operators",
+          "id": "4kU5nN9B7hXLqUg7sMiQKw"
         }
       ],
       "features": [],
@@ -556,7 +574,8 @@
       "rank": 18,
       "artists": [
         {
-          "name": "Mapei"
+          "name": "Mapei",
+          "id": "6baWjwY7WiVPCZcW7pqqhz"
         }
       ],
       "features": [],
@@ -584,7 +603,8 @@
       "rank": 19,
       "artists": [
         {
-          "name": "Caribou"
+          "name": "Caribou",
+          "id": "4aEnNH9PuU1HF3TsZTru54"
         }
       ],
       "features": [],
@@ -612,7 +632,8 @@
       "rank": 20,
       "artists": [
         {
-          "name": "Ariana Grande"
+          "name": "Ariana Grande",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
       "features": [
@@ -644,7 +665,8 @@
       "rank": 21,
       "artists": [
         {
-          "name": "Ariana Grande"
+          "name": "Ariana Grande",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
       "features": [
@@ -676,7 +698,8 @@
       "rank": 22,
       "artists": [
         {
-          "name": "Duke Dumont"
+          "name": "Duke Dumont",
+          "id": "61lyPtntblHJvA7FMMhi7E"
         }
       ],
       "features": [
@@ -708,7 +731,8 @@
       "rank": 23,
       "artists": [
         {
-          "name": "Tinashe"
+          "name": "Tinashe",
+          "id": "0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
       "features": [
@@ -740,7 +764,8 @@
       "rank": 24,
       "artists": [
         {
-          "name": "Migos"
+          "name": "Migos",
+          "id": "6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
       "features": [],
@@ -768,7 +793,8 @@
       "rank": 25,
       "artists": [
         {
-          "name": "Rick Ross"
+          "name": "Rick Ross",
+          "id": "1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
       "features": [
@@ -803,7 +829,8 @@
       "rank": 26,
       "artists": [
         {
-          "name": "ILOVEMAKONNEN"
+          "name": "ILOVEMAKONNEN",
+          "id": "3aGFCoR8xGN6DKwvdzeSja"
         }
       ],
       "features": [
@@ -835,7 +862,8 @@
       "rank": 27,
       "artists": [
         {
-          "name": "Lolawolf"
+          "name": "Lolawolf",
+          "id": "6ABaV7mB6WIZKgfEEtWCf8"
         }
       ],
       "features": [],
@@ -863,7 +891,8 @@
       "rank": 28,
       "artists": [
         {
-          "name": "TIEKS"
+          "name": "TIEKS",
+          "id": "5ubTLvtpORseymsgTVxk45"
         }
       ],
       "features": [
@@ -895,7 +924,8 @@
       "rank": 29,
       "artists": [
         {
-          "name": "Taylor Swift"
+          "name": "Taylor Swift",
+          "id": "06HL4z0CvFAxyc27GXpf02"
         }
       ],
       "features": [],

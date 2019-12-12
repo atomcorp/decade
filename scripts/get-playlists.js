@@ -33,14 +33,17 @@ const parsePlaylist = (playlist) => {
     images: playlist.images,
     tracks: playlist.tracks.items.map((item, index) => ({
       rank: index,
-      artists: item.track.album.artists.map((artist) => ({name: artist.name})),
+      artists: item.track.album.artists.map((artist) => ({
+        name: artist.name,
+        id: artist.id,
+      })),
       features: item.track.artists.reduce((acc, artist) => {
         if (
           !item.track.album.artists.find(
             (albumArtist) => albumArtist.name === artist.name
           )
         ) {
-          return [...acc, {name: artist.name}];
+          return [...acc, {name: artist.name, id: artist.id}];
         }
         return acc;
       }, []),

@@ -23,7 +23,8 @@
       "rank": 0,
       "artists": [
         {
-          "name": "Grimes"
+          "name": "Grimes",
+          "id": "053q0ukIDRgzwTr4vNSwab"
         }
       ],
       "features": [],
@@ -51,7 +52,8 @@
       "rank": 1,
       "artists": [
         {
-          "name": "Mac DeMarco"
+          "name": "Mac DeMarco",
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
       "features": [],
@@ -79,7 +81,8 @@
       "rank": 2,
       "artists": [
         {
-          "name": "Jai Paul"
+          "name": "Jai Paul",
+          "id": "53wZLCnhshZKDRs3uopFBc"
         }
       ],
       "features": [],
@@ -107,7 +110,8 @@
       "rank": 3,
       "artists": [
         {
-          "name": "Nicki Minaj"
+          "name": "Nicki Minaj",
+          "id": "0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
       "features": [],
@@ -135,7 +139,8 @@
       "rank": 4,
       "artists": [
         {
-          "name": "Baroness"
+          "name": "Baroness",
+          "id": "3KdXhEwbqFHfNfSk7L9E87"
         }
       ],
       "features": [],
@@ -163,7 +168,8 @@
       "rank": 5,
       "artists": [
         {
-          "name": "Charli XCX"
+          "name": "Charli XCX",
+          "id": "25uiPmTg16RbhZWAqwLBy5"
         }
       ],
       "features": [],
@@ -191,7 +197,8 @@
       "rank": 6,
       "artists": [
         {
-          "name": "Torche"
+          "name": "Torche",
+          "id": "4PxqJghOAEvatt0scJvili"
         }
       ],
       "features": [],
@@ -219,7 +226,8 @@
       "rank": 7,
       "artists": [
         {
-          "name": "Jessie Ware"
+          "name": "Jessie Ware",
+          "id": "5Mq7iqCWBzofK39FBqblNc"
         }
       ],
       "features": [],
@@ -247,7 +255,8 @@
       "rank": 8,
       "artists": [
         {
-          "name": "Spiritualized"
+          "name": "Spiritualized",
+          "id": "6DKmuXxXASTF6xaJwcTfjv"
         }
       ],
       "features": [],
@@ -275,7 +284,8 @@
       "rank": 9,
       "artists": [
         {
-          "name": "Major Lazer"
+          "name": "Major Lazer",
+          "id": "738wLrAtLtCtFOLvQBXOXp"
         }
       ],
       "features": [
@@ -307,7 +317,8 @@
       "rank": 10,
       "artists": [
         {
-          "name": "Blush"
+          "name": "Blush",
+          "id": "0kM8578RqYDhRJMOHVMt06"
         }
       ],
       "features": [],
@@ -335,7 +346,8 @@
       "rank": 11,
       "artists": [
         {
-          "name": "Amelia Lily"
+          "name": "Amelia Lily",
+          "id": "6C5q61menaSerLWhltM58b"
         }
       ],
       "features": [],
@@ -363,7 +375,8 @@
       "rank": 12,
       "artists": [
         {
-          "name": "Tegan and Sara"
+          "name": "Tegan and Sara",
+          "id": "5e1BZulIiYWPRm8yogwUYH"
         }
       ],
       "features": [],
@@ -391,7 +404,8 @@
       "rank": 13,
       "artists": [
         {
-          "name": "Kesha"
+          "name": "Kesha",
+          "id": "6LqNN22kT3074XbTVUrhzX"
         }
       ],
       "features": [],
@@ -419,7 +433,8 @@
       "rank": 14,
       "artists": [
         {
-          "name": "Florence + The Machine"
+          "name": "Florence + The Machine",
+          "id": "1moxjboGR7GNWYIMWsRjgG"
         }
       ],
       "features": [
@@ -451,7 +466,8 @@
       "rank": 15,
       "artists": [
         {
-          "name": "MARINA"
+          "name": "MARINA",
+          "id": "6CwfuxIqcltXDGjfZsMd9A"
         }
       ],
       "features": [],

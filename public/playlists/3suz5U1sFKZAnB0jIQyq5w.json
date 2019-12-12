@@ -23,7 +23,8 @@
       "rank": 0,
       "artists": [
         {
-          "name": "Arcade Fire"
+          "name": "Arcade Fire",
+          "id": "3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
       "features": [],
@@ -51,7 +52,8 @@
       "rank": 1,
       "artists": [
         {
-          "name": "The Radio Dept."
+          "name": "The Radio Dept.",
+          "id": "0utS63XytOEVN1EtzWhJpG"
         }
       ],
       "features": [],
@@ -79,7 +81,8 @@
       "rank": 2,
       "artists": [
         {
-          "name": "Women"
+          "name": "Women",
+          "id": "2uf32eac3VFGHBonRKaLXQ"
         }
       ],
       "features": [],
@@ -107,7 +110,8 @@
       "rank": 3,
       "artists": [
         {
-          "name": "Ariel Pink"
+          "name": "Ariel Pink",
+          "id": "5H0YoDsPDi9fObFmJtTjfN"
         }
       ],
       "features": [],
@@ -135,7 +139,8 @@
       "rank": 4,
       "artists": [
         {
-          "name": "Two Door Cinema Club"
+          "name": "Two Door Cinema Club",
+          "id": "536BYVgOnRky0xjsPT96zl"
         }
       ],
       "features": [],
@@ -163,7 +168,8 @@
       "rank": 5,
       "artists": [
         {
-          "name": "The Seal Cub Clubbing Club"
+          "name": "The Seal Cub Clubbing Club",
+          "id": "0FtYbCb2cYGNsMkyoTcXaB"
         }
       ],
       "features": [],
@@ -191,7 +197,8 @@
       "rank": 6,
       "artists": [
         {
-          "name": "Sleigh Bells"
+          "name": "Sleigh Bells",
+          "id": "59pWgeY26Q6yJy37QvJflh"
         }
       ],
       "features": [],
@@ -219,7 +226,8 @@
       "rank": 7,
       "artists": [
         {
-          "name": "Late of the Pier"
+          "name": "Late of the Pier",
+          "id": "5ZBQea34QfBgEDkcGEKK2b"
         }
       ],
       "features": [],
@@ -247,7 +255,8 @@
       "rank": 8,
       "artists": [
         {
-          "name": "Delorean"
+          "name": "Delorean",
+          "id": "4llqCChMq4zPzCB84OrTck"
         }
       ],
       "features": [],
@@ -275,7 +284,8 @@
       "rank": 9,
       "artists": [
         {
-          "name": "Neon Indian"
+          "name": "Neon Indian",
+          "id": "0KydPQPUUoTNhmiHKOg5Er"
         }
       ],
       "features": [],
@@ -303,7 +313,8 @@
       "rank": 10,
       "artists": [
         {
-          "name": "Fang Island"
+          "name": "Fang Island",
+          "id": "1q9Q9kJLS8HS77bCaX86wS"
         }
       ],
       "features": [],
@@ -331,7 +342,8 @@
       "rank": 11,
       "artists": [
         {
-          "name": "Zola Jesus"
+          "name": "Zola Jesus",
+          "id": "78OKNrjc3BvniYTqvpOp6P"
         }
       ],
       "features": [],
@@ -359,7 +371,8 @@
       "rank": 12,
       "artists": [
         {
-          "name": "Big Boi"
+          "name": "Big Boi",
+          "id": "2ht3wxeT69CzyKFChNnNAB"
         }
       ],
       "features": [
@@ -391,7 +404,8 @@
       "rank": 13,
       "artists": [
         {
-          "name": "Janelle Monáe"
+          "name": "Janelle Monáe",
+          "id": "6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
       "features": [
@@ -423,7 +437,8 @@
       "rank": 14,
       "artists": [
         {
-          "name": "Surfer Blood"
+          "name": "Surfer Blood",
+          "id": "0IlQRCafsMrd0QkTRBU6n0"
         }
       ],
       "features": [],
@@ -451,7 +466,8 @@
       "rank": 15,
       "artists": [
         {
-          "name": "Yeasayer"
+          "name": "Yeasayer",
+          "id": "04HvbIwBccFmRie5ATX4ft"
         }
       ],
       "features": [],
@@ -479,7 +495,8 @@
       "rank": 16,
       "artists": [
         {
-          "name": "Rihanna"
+          "name": "Rihanna",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
       "features": [],
