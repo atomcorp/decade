@@ -62,7 +62,8 @@
       ],
       "features": [
         {
-          "name": "Beyoncé"
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
         }
       ],
       "id": "4TRUsIZw92IhJjAtxtiC4e",
@@ -95,7 +96,8 @@
       ],
       "features": [
         {
-          "name": "Rick Ross"
+          "name": "Rick Ross",
+          "id": "1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
       "id": "5CDNl8At4wsDdtnpkFoepd",
@@ -186,7 +188,8 @@
       ],
       "features": [
         {
-          "name": "Spinn"
+          "name": "Spinn",
+          "id": "5gmgJUPTu5ApaV6Swjfb20"
         }
       ],
       "id": "0Ud1WTJmc7UvZCWdYvohuQ",
@@ -219,10 +222,12 @@
       ],
       "features": [
         {
-          "name": "Kim Petras"
+          "name": "Kim Petras",
+          "id": "3Xt3RrJMFv5SZkCfUE8C1J"
         },
         {
-          "name": "Jay Park"
+          "name": "Jay Park",
+          "id": "4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
       "id": "3qGHAKgjQruzj6doKkyEb5",

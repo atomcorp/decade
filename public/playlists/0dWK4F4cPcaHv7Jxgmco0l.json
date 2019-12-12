@@ -58,7 +58,8 @@
       ],
       "features": [
         {
-          "name": "Majid Jordan"
+          "name": "Majid Jordan",
+          "id": "4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
       "id": "6jdOi5U5LBzQrc4c1VT983",
@@ -149,10 +150,12 @@
       ],
       "features": [
         {
-          "name": "Pharrell Williams"
+          "name": "Pharrell Williams",
+          "id": "2RdwBSPQiwcmiDo9kixcl8"
         },
         {
-          "name": "Nile Rodgers"
+          "name": "Nile Rodgers",
+          "id": "3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
       "id": "2Foc5Q5nqNiosCNqttzHof",
@@ -214,7 +217,8 @@
       ],
       "features": [
         {
-          "name": "Erykah Badu"
+          "name": "Erykah Badu",
+          "id": "7IfculRW2WXyzNQ8djX8WX"
         }
       ],
       "id": "3HW030T8eqPs8wpsgZqCGM",
@@ -305,10 +309,12 @@
       ],
       "features": [
         {
-          "name": "T.I."
+          "name": "T.I.",
+          "id": "4OBJLual30L7gRl5UkeRcT"
         },
         {
-          "name": "Pharrell Williams"
+          "name": "Pharrell Williams",
+          "id": "2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
       "id": "0XzkemXSiXJa7VgDFPfU4S",
@@ -544,7 +550,8 @@
       ],
       "features": [
         {
-          "name": "Jenny Lewis"
+          "name": "Jenny Lewis",
+          "id": "5cMVRrisBpDkXCVG48epED"
         }
       ],
       "id": "6oS1bbrll1iITnC2EG4odP",
@@ -577,7 +584,8 @@
       ],
       "features": [
         {
-          "name": "Pharrell Williams"
+          "name": "Pharrell Williams",
+          "id": "2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
       "id": "5CMjjywI0eZMixPeqNd75R",
@@ -755,7 +763,8 @@
       ],
       "features": [
         {
-          "name": "Mac Miller"
+          "name": "Mac Miller",
+          "id": "4LLpKhyESsyAXpc4laK94U"
         }
       ],
       "id": "0S4RKPbRDA72tvKwVdXQqe",

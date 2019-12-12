@@ -1,32 +1,62 @@
 [
   {
-    "name": "Charli XCX",
-    "id": "25uiPmTg16RbhZWAqwLBy5",
-    "count": 12
-  },
-  {
     "name": "Drake",
     "id": "3TVXtAsR1Inumwj472S9r4",
-    "count": 11
+    "count": 14
+  },
+  {
+    "name": "Charli XCX",
+    "id": "25uiPmTg16RbhZWAqwLBy5",
+    "count": 14
   },
   {
     "name": "Kanye West",
     "id": "5K4W6rqBFWDnAN6FQUkS6x",
+    "count": 13
+  },
+  {
+    "name": "Young Thug",
+    "id": "50co4Is1HCEo8bhOyUWKpn",
+    "count": 9
+  },
+  {
+    "name": "Travis Scott",
+    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
     "count": 9
   },
   {
     "name": "Tinashe",
     "id": "0NIIxcxNHmOoyBx03SfTCD",
-    "count": 6
+    "count": 8
+  },
+  {
+    "name": "Ty Dolla $ign",
+    "id": "7c0XG5cIJTrrAgEC3ULPiq",
+    "count": 7
   },
   {
     "name": "Ariana Grande",
     "id": "66CXWjxzNUsdJxJ2JdwvnR",
-    "count": 5
+    "count": 6
   },
   {
-    "name": "Travis Scott",
-    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+    "name": "Chance the Rapper",
+    "id": "1anyVhU62p31KFi8MEzkbf",
+    "count": 6
+  },
+  {
+    "name": "Rihanna",
+    "id": "5pKCCKE2ajJHZ9KAiaK11H",
+    "count": 6
+  },
+  {
+    "name": "Migos",
+    "id": "6oMuImdp5ZcFhWP0ESe6mG",
+    "count": 6
+  },
+  {
+    "name": "The Weeknd",
+    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
     "count": 5
   },
   {
@@ -40,9 +70,9 @@
     "count": 5
   },
   {
-    "name": "Rihanna",
-    "id": "5pKCCKE2ajJHZ9KAiaK11H",
-    "count": 5
+    "name": "Pharrell Williams",
+    "id": "2RdwBSPQiwcmiDo9kixcl8",
+    "count": 4
   },
   {
     "name": "Janelle Monáe",
@@ -50,23 +80,73 @@
     "count": 4
   },
   {
-    "name": "Young Thug",
-    "id": "50co4Is1HCEo8bhOyUWKpn",
+    "name": "Kehlani",
+    "id": "0cGUm45nv7Z6M6qdXYQGTX",
     "count": 4
   },
   {
-    "name": "The Weeknd",
-    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+    "name": "Frank Ocean",
+    "id": "2h93pZq0e7k5yf4dywlkpM",
     "count": 4
   },
   {
-    "name": "Migos",
-    "id": "6oMuImdp5ZcFhWP0ESe6mG",
+    "name": "Vince Staples",
+    "id": "68kEuyFKyqrdQQLLsmiatm",
     "count": 4
+  },
+  {
+    "name": "Kendrick Lamar",
+    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "count": 4
+  },
+  {
+    "name": "Big Sean",
+    "id": "0c173mlxpT3dSFRgMO8XPh",
+    "count": 4
+  },
+  {
+    "name": "Beyoncé",
+    "id": "6vWDO969PvNqNYHIOW5v0m",
+    "count": 4
+  },
+  {
+    "name": "Calvin Harris",
+    "id": "7CajNmpbOovFoOoasH2HaY",
+    "count": 4
+  },
+  {
+    "name": "Big Boi",
+    "id": "2ht3wxeT69CzyKFChNnNAB",
+    "count": 4
+  },
+  {
+    "name": "A$AP Rocky",
+    "id": "13ubrt8QOOCPljQ2FL1Kca",
+    "count": 3
+  },
+  {
+    "name": "Daft Punk",
+    "id": "4tZwfgrHOc3mvqYlEYSvVi",
+    "count": 3
+  },
+  {
+    "name": "Pusha T",
+    "id": "0ONHkAv9pCAFxb0zJwDNTy",
+    "count": 3
+  },
+  {
+    "name": "Kim Petras",
+    "id": "3Xt3RrJMFv5SZkCfUE8C1J",
+    "count": 3
   },
   {
     "name": "Sigrid",
     "id": "4TrraAsitQKl821DQY42cZ",
+    "count": 3
+  },
+  {
+    "name": "Zara Larsson",
+    "id": "1Xylc3o4UrD53lo9CvFvVg",
     "count": 3
   },
   {
@@ -80,6 +160,16 @@
     "count": 3
   },
   {
+    "name": "Future",
+    "id": "1RyvyyTE3xzB2ZywiAwp0i",
+    "count": 3
+  },
+  {
+    "name": "Anderson .Paak",
+    "id": "3jK9MiCrA42lLAdMGUZpwa",
+    "count": 3
+  },
+  {
     "name": "Clams Casino",
     "id": "5vSQUyT33qxr1xAX2Tkf3A",
     "count": 3
@@ -87,11 +177,6 @@
   {
     "name": "M83",
     "id": "63MQldklfxkjYDoUE4Tppz",
-    "count": 3
-  },
-  {
-    "name": "Vince Staples",
-    "id": "68kEuyFKyqrdQQLLsmiatm",
     "count": 3
   },
   {
@@ -105,13 +190,28 @@
     "count": 3
   },
   {
+    "name": "Lil Wayne",
+    "id": "55Aa2cqylxrFIXC767Z865",
+    "count": 3
+  },
+  {
     "name": "Azealia Banks",
     "id": "7gRhy3MIPHQo5CXYfWaw9I",
     "count": 3
   },
   {
-    "name": "Ty Dolla $ign",
-    "id": "7c0XG5cIJTrrAgEC3ULPiq",
+    "name": "Carly Rae Jepsen",
+    "id": "6sFIWsNpZYqfjUpaCgueju",
+    "count": 3
+  },
+  {
+    "name": "French Montana",
+    "id": "6vXTefBL93Dj5IqAWq6OTv",
+    "count": 3
+  },
+  {
+    "name": "Danny Brown",
+    "id": "7aA592KWirLsnfb5ulGWvU",
     "count": 3
   },
   {
@@ -120,8 +220,8 @@
     "count": 3
   },
   {
-    "name": "Big Boi",
-    "id": "2ht3wxeT69CzyKFChNnNAB",
+    "name": "DJ Rashad",
+    "id": "4zGBj9dI63YIWmZkPl3o7V",
     "count": 3
   },
   {
@@ -132,11 +232,6 @@
   {
     "name": "Post Malone",
     "id": "246dkjvS1zLTtiykXe5h60",
-    "count": 3
-  },
-  {
-    "name": "Calvin Harris",
-    "id": "7CajNmpbOovFoOoasH2HaY",
     "count": 3
   },
   {
@@ -155,13 +250,8 @@
     "count": 3
   },
   {
-    "name": "A$AP Rocky",
-    "id": "13ubrt8QOOCPljQ2FL1Kca",
-    "count": 2
-  },
-  {
-    "name": "Daft Punk",
-    "id": "4tZwfgrHOc3mvqYlEYSvVi",
+    "name": "Majid Jordan",
+    "id": "4HzKw8XcD0piJmDrrPRCYk",
     "count": 2
   },
   {
@@ -180,11 +270,6 @@
     "count": 2
   },
   {
-    "name": "Pusha T",
-    "id": "0ONHkAv9pCAFxb0zJwDNTy",
-    "count": 2
-  },
-  {
     "name": "Glasser",
     "id": "2M45qKMZX16QUyOiKyluI0",
     "count": 2
@@ -192,11 +277,6 @@
   {
     "name": "Ariel Pink",
     "id": "5H0YoDsPDi9fObFmJtTjfN",
-    "count": 2
-  },
-  {
-    "name": "Kim Petras",
-    "id": "3Xt3RrJMFv5SZkCfUE8C1J",
     "count": 2
   },
   {
@@ -215,18 +295,13 @@
     "count": 2
   },
   {
-    "name": "Kehlani",
-    "id": "0cGUm45nv7Z6M6qdXYQGTX",
-    "count": 2
-  },
-  {
-    "name": "Zara Larsson",
-    "id": "1Xylc3o4UrD53lo9CvFvVg",
-    "count": 2
-  },
-  {
     "name": "IDLES",
     "id": "75mafsNqNE1WSEVxIKuY5C",
+    "count": 2
+  },
+  {
+    "name": "Jax Jones",
+    "id": "4Q6nIcaBED8qUel8bBx6Cr",
     "count": 2
   },
   {
@@ -240,6 +315,11 @@
     "count": 2
   },
   {
+    "name": "Floating Points",
+    "id": "2AR42Ur9PcchQDtEdwkv4L",
+    "count": 2
+  },
+  {
     "name": "Hayley Kiyoko",
     "id": "3LjhVl7GzYsza1biQjTpaN",
     "count": 2
@@ -247,6 +327,11 @@
   {
     "name": "Fever Ray",
     "id": "5hE6NCoobhyEu6TRSbjOJY",
+    "count": 2
+  },
+  {
+    "name": "Hudson Mohawke",
+    "id": "6olWbKW2VLhFCHfOi0iEDb",
     "count": 2
   },
   {
@@ -265,23 +350,13 @@
     "count": 2
   },
   {
-    "name": "Frank Ocean",
-    "id": "2h93pZq0e7k5yf4dywlkpM",
-    "count": 2
-  },
-  {
     "name": "Kero Kero Bonito",
     "id": "6OqhFYFJDnBBHas02HopPT",
     "count": 2
   },
   {
-    "name": "Future",
-    "id": "1RyvyyTE3xzB2ZywiAwp0i",
-    "count": 2
-  },
-  {
-    "name": "Chance the Rapper",
-    "id": "1anyVhU62p31KFi8MEzkbf",
+    "name": "Lil Yachty",
+    "id": "6icQOAFXDZKsumw3YXyusw",
     "count": 2
   },
   {
@@ -300,13 +375,53 @@
     "count": 2
   },
   {
+    "name": "Hannah Diamond",
+    "id": "3sXErEOw7EmO6Sj7EgjHdU",
+    "count": 2
+  },
+  {
+    "name": "ZAYN",
+    "id": "5ZsFI1h6hIdQRw2ti0hz81",
+    "count": 2
+  },
+  {
+    "name": "Dan Harkna",
+    "id": "5xeGJm9dgg2x5luZLEYtMx",
+    "count": 2
+  },
+  {
+    "name": "Danny Brown",
+    "id": "6pJkhyn8MedLRRl9qZVkWL",
+    "count": 2
+  },
+  {
     "name": "Blanck Mass",
     "id": "73LvjicByRK5LazcQYZMAY",
     "count": 2
   },
   {
+    "name": "2 Chainz",
+    "id": "17lzZA2AlOHwCwFALHttmp",
+    "count": 2
+  },
+  {
+    "name": "Gucci Mane",
+    "id": "13y7CgLHjMVRMDqxdx0Xdo",
+    "count": 2
+  },
+  {
+    "name": "Quavo",
+    "id": "0VRj0yCOv2FXJNP47XQnx5",
+    "count": 2
+  },
+  {
     "name": "araabMUZIK",
     "id": "2iXdwLTWyFhlN1MQWIymvM",
+    "count": 2
+  },
+  {
+    "name": "Danny L Harle",
+    "id": "1PNvaesh1mkKZucGhBuqgD",
     "count": 2
   },
   {
@@ -330,13 +445,13 @@
     "count": 2
   },
   {
-    "name": "DJ Rashad",
-    "id": "4zGBj9dI63YIWmZkPl3o7V",
+    "name": "JAY-Z",
+    "id": "3nFkdlSjzX9mRTtwJOzDYB",
     "count": 2
   },
   {
-    "name": "Beyoncé",
-    "id": "6vWDO969PvNqNYHIOW5v0m",
+    "name": "Rick Ross",
+    "id": "1sBkRIssrMs1AbVkOJbc7a",
     "count": 2
   },
   {
@@ -370,8 +485,28 @@
     "count": 2
   },
   {
+    "name": "E-40",
+    "id": "3crnzLy8R4lVwaigKEOz7V",
+    "count": 2
+  },
+  {
+    "name": "Paul McCartney",
+    "id": "4STHEaNw4mPZ2tzheohgXB",
+    "count": 2
+  },
+  {
+    "name": "Rita Ora",
+    "id": "5CCwRZC6euC8Odo6y9X8jr",
+    "count": 2
+  },
+  {
     "name": "Miguel",
     "id": "360IAlyVv4PCEVjgyMZrxK",
+    "count": 2
+  },
+  {
+    "name": "Hailee Steinfeld",
+    "id": "5p7f24Rk5HkUZsaS3BLG5F",
     "count": 2
   },
   {
@@ -380,13 +515,13 @@
     "count": 2
   },
   {
-    "name": "Kendrick Lamar",
-    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "name": "Stefflon Don",
+    "id": "2ExGrw6XpbtUAJHTLtUXUD",
     "count": 2
   },
   {
-    "name": "Stefflon Don",
-    "id": "2ExGrw6XpbtUAJHTLtUXUD",
+    "name": "Shakka",
+    "id": "7fqDRFkiuwzFDde1K0taVs",
     "count": 2
   },
   {
@@ -415,11 +550,6 @@
     "count": 2
   },
   {
-    "name": "Lil Wayne",
-    "id": "55Aa2cqylxrFIXC767Z865",
-    "count": 2
-  },
-  {
     "name": "Mapei",
     "id": "6baWjwY7WiVPCZcW7pqqhz",
     "count": 2
@@ -427,6 +557,16 @@
   {
     "name": "Clean Bandit",
     "id": "6MDME20pz9RveH9rEXvrOM",
+    "count": 2
+  },
+  {
+    "name": "Sean Paul",
+    "id": "3Isy6kedDrgPYoTS1dazA9",
+    "count": 2
+  },
+  {
+    "name": "ILOVEMAKONNEN",
+    "id": "3aGFCoR8xGN6DKwvdzeSja",
     "count": 2
   },
   {
@@ -460,8 +600,18 @@
     "count": 1
   },
   {
+    "name": "Nile Rodgers",
+    "id": "3yDIp0kaq9EFKe07X1X2rz",
+    "count": 1
+  },
+  {
     "name": "The Knife",
     "id": "7eQZTqEMozBcuSubfu52i4",
+    "count": 1
+  },
+  {
+    "name": "Erykah Badu",
+    "id": "7IfculRW2WXyzNQ8djX8WX",
     "count": 1
   },
   {
@@ -480,6 +630,11 @@
     "count": 1
   },
   {
+    "name": "T.I.",
+    "id": "4OBJLual30L7gRl5UkeRcT",
+    "count": 1
+  },
+  {
     "name": "CHVRCHES",
     "id": "3CjlHNtplJyTf9npxaPl5w",
     "count": 1
@@ -495,6 +650,11 @@
     "count": 1
   },
   {
+    "name": "Jenny Lewis",
+    "id": "5cMVRrisBpDkXCVG48epED",
+    "count": 1
+  },
+  {
     "name": "Bass Drum of Death",
     "id": "5LtAyeDVOVcydj65LvgICY",
     "count": 1
@@ -502,6 +662,11 @@
   {
     "name": "Le Youth",
     "id": "1Zz6NBe8UIZjm88TvehFtx",
+    "count": 1
+  },
+  {
+    "name": "Mac Miller",
+    "id": "4LLpKhyESsyAXpc4laK94U",
     "count": 1
   },
   {
@@ -517,6 +682,11 @@
   {
     "name": "Mannequin Pussy",
     "id": "33yje3hgpNfdXpqdJQcrt9",
+    "count": 1
+  },
+  {
+    "name": "Toro y Moi",
+    "id": "6O4EGCCb6DoIiR6B1QCQgp",
     "count": 1
   },
   {
@@ -545,18 +715,23 @@
     "count": 1
   },
   {
-    "name": "Jax Jones",
-    "id": "4Q6nIcaBED8qUel8bBx6Cr",
-    "count": 1
-  },
-  {
     "name": "Martin Solveig",
     "id": "1bj5GrcLom5gZFF5t949Xl",
     "count": 1
   },
   {
+    "name": "Europa",
+    "id": "2NlKrNMdpYxGjt3Pvw87rC",
+    "count": 1
+  },
+  {
     "name": "Mark Ronson",
     "id": "3hv9jJF3adDNsBSIQDqcjp",
+    "count": 1
+  },
+  {
+    "name": "Lykke Li",
+    "id": "6oBm8HB0yfrIc9IHbxs6in",
     "count": 1
   },
   {
@@ -587,6 +762,11 @@
   {
     "name": "Sky Ferreira",
     "id": "7pyhre5oEEFMqcgMEvJY7q",
+    "count": 1
+  },
+  {
+    "name": "Juice WRLD",
+    "id": "4MCBfE4596Uoi2O4DtmEMz",
     "count": 1
   },
   {
@@ -640,18 +820,33 @@
     "count": 1
   },
   {
-    "name": "Floating Points",
-    "id": "2AR42Ur9PcchQDtEdwkv4L",
-    "count": 1
-  },
-  {
     "name": "Naar",
     "id": "2iHkY7NEHJSOF6O7rQaDww",
     "count": 1
   },
   {
+    "name": "Madd",
+    "id": "7DBIKXxSh2BMPqSN7UB4rS",
+    "count": 1
+  },
+  {
+    "name": "Laylow",
+    "id": "0LnhY2fzptb0QEs5Q5gM7S",
+    "count": 1
+  },
+  {
+    "name": "Shobee",
+    "id": "5Et8bRmkENeaA7SPwj1OxL",
+    "count": 1
+  },
+  {
     "name": "Vishal-Shekhar",
     "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+    "count": 1
+  },
+  {
+    "name": "Vishal Dadlani",
+    "id": "6CXEwIaXYfVJ84biCxqc9k",
     "count": 1
   },
   {
@@ -670,6 +865,16 @@
     "count": 1
   },
   {
+    "name": "Pamputtae",
+    "id": "3qu3PIngYcX3SzOVcNGSTF",
+    "count": 1
+  },
+  {
+    "name": "El Guincho",
+    "id": "1oMiDFyAgmIzw9ZBQYHOJI",
+    "count": 1
+  },
+  {
     "name": "Billy Ray Cyrus",
     "id": "60rpJ9SgigSd16DOAG7GSa",
     "count": 1
@@ -680,18 +885,23 @@
     "count": 1
   },
   {
+    "name": "Knox Fortune",
+    "id": "49O0SPoCoTiK2Nn2tOaHyU",
+    "count": 1
+  },
+  {
     "name": "Domo Genesis",
     "id": "6vHBuUxrcpn1do5UaEJ7g6",
     "count": 1
   },
   {
-    "name": "Anderson .Paak",
-    "id": "3jK9MiCrA42lLAdMGUZpwa",
+    "name": "A$AP Ferg",
+    "id": "5dHt1vcEm9qb8fCyLcB3HL",
     "count": 1
   },
   {
-    "name": "A$AP Ferg",
-    "id": "5dHt1vcEm9qb8fCyLcB3HL",
+    "name": "Missy Elliott",
+    "id": "2wIVse2owClT7go1WT98tk",
     "count": 1
   },
   {
@@ -710,6 +920,26 @@
     "count": 1
   },
   {
+    "name": "T.I.P",
+    "id": "4KKxWQcENsJSxpwm6lCf7R",
+    "count": 1
+  },
+  {
+    "name": "Duke",
+    "id": "5kARVtC2AG0DnhgrFBCbGR",
+    "count": 1
+  },
+  {
+    "name": "Shad Da God",
+    "id": "2z1ZZSBRCNYjOZmUcA3rSQ",
+    "count": 1
+  },
+  {
+    "name": "MAI LAN",
+    "id": "4qCKUiCnxl18wGx7Bvk5fD",
+    "count": 1
+  },
+  {
     "name": "Kai",
     "id": "6xHUXzrfhFgnIv86EBR3Ml",
     "count": 1
@@ -720,6 +950,16 @@
     "count": 1
   },
   {
+    "name": "WizKid",
+    "id": "3tVQdUvClmAT7URs9V3rsp",
+    "count": 1
+  },
+  {
+    "name": "Kyla",
+    "id": "77DAFfvm3O9zT5dIoG0eIO",
+    "count": 1
+  },
+  {
     "name": "PJ Harvey",
     "id": "12VaqyEhgwDRuFfEqbnrpz",
     "count": 1
@@ -727,11 +967,6 @@
   {
     "name": "KUČKA",
     "id": "6JcD2YKEhgimweLpUI0NEw",
-    "count": 1
-  },
-  {
-    "name": "ZAYN",
-    "id": "5ZsFI1h6hIdQRw2ti0hz81",
     "count": 1
   },
   {
@@ -755,8 +990,8 @@
     "count": 1
   },
   {
-    "name": "Majid Jordan",
-    "id": "4HzKw8XcD0piJmDrrPRCYk",
+    "name": "Ice Cube",
+    "id": "3Mcii5XWf6E0lrY3Uky4cA",
     "count": 1
   },
   {
@@ -770,13 +1005,33 @@
     "count": 1
   },
   {
+    "name": "KRANE",
+    "id": "2aOoD3zsuYforFcDvUpZoH",
+    "count": 1
+  },
+  {
     "name": "Boys Noize",
     "id": "62k5LKMhymqlDNo2DWOvvv",
     "count": 1
   },
   {
-    "name": "Hudson Mohawke",
-    "id": "6olWbKW2VLhFCHfOi0iEDb",
+    "name": "Spank Rock",
+    "id": "1LcLsIWOl1Z8vo1wl6bxg2",
+    "count": 1
+  },
+  {
+    "name": "Pell",
+    "id": "2O2dI9lY9PnWtAa4OlrgMi",
+    "count": 1
+  },
+  {
+    "name": "Lil B",
+    "id": "4dqh62yIzDBmrMeBOLiP5F",
+    "count": 1
+  },
+  {
+    "name": "Wyclef Jean",
+    "id": "7aBzpmFXB4WWpPl2F7RjBe",
     "count": 1
   },
   {
@@ -785,18 +1040,18 @@
     "count": 1
   },
   {
-    "name": "Gucci Mane",
-    "id": "13y7CgLHjMVRMDqxdx0Xdo",
+    "name": "Yo Gotti",
+    "id": "6Ha4aES39QiVjR0L2lwuwq",
+    "count": 1
+  },
+  {
+    "name": "Desiigner",
+    "id": "7pFeBzX627ff0VnN6bxPR4",
     "count": 1
   },
   {
     "name": "Lindstrøm",
     "id": "2vTtjIqZ7hW0W15t1ApKTB",
-    "count": 1
-  },
-  {
-    "name": "Danny L Harle",
-    "id": "1PNvaesh1mkKZucGhBuqgD",
     "count": 1
   },
   {
@@ -820,6 +1075,11 @@
     "count": 1
   },
   {
+    "name": "Nas",
+    "id": "20qISvAhX20dpIbOOzGK3q",
+    "count": 1
+  },
+  {
     "name": "Birdy",
     "id": "2WX2uTcsvV5OnS0inACecP",
     "count": 1
@@ -832,6 +1092,11 @@
   {
     "name": "GoldLink",
     "id": "5XenQ7XfcvQdfIbpLEFaKQ",
+    "count": 1
+  },
+  {
+    "name": "Ciscero",
+    "id": "5oSCIcpPdrO3UhTMATxkYL",
     "count": 1
   },
   {
@@ -870,6 +1135,11 @@
     "count": 1
   },
   {
+    "name": "Samuel T. Herring",
+    "id": "6K4I1MPd7m8IztUdtrF4YU",
+    "count": 1
+  },
+  {
     "name": "Madlib",
     "id": "5LhTec3c7dcqBvpLRWbMcf",
     "count": 1
@@ -880,8 +1150,18 @@
     "count": 1
   },
   {
+    "name": "A. G. Cook",
+    "id": "335TWGWGFan4vaacJzSiU8",
+    "count": 1
+  },
+  {
     "name": "The Americanos",
     "id": "4XxgN35ZzxIrzUH9Fz8e1y",
+    "count": 1
+  },
+  {
+    "name": "Nicky Jam",
+    "id": "1SupJlEpv7RS2tPNRaHViT",
     "count": 1
   },
   {
@@ -890,13 +1170,13 @@
     "count": 1
   },
   {
-    "name": "Hare Squead",
-    "id": "3OqgnoaUHWX4ih4oAL0zzQ",
+    "name": "24hrs",
+    "id": "4isewEHTP7Az2QheDdBQ6J",
     "count": 1
   },
   {
-    "name": "Danny Brown",
-    "id": "7aA592KWirLsnfb5ulGWvU",
+    "name": "Hare Squead",
+    "id": "3OqgnoaUHWX4ih4oAL0zzQ",
     "count": 1
   },
   {
@@ -905,8 +1185,13 @@
     "count": 1
   },
   {
-    "name": "JAY-Z",
-    "id": "3nFkdlSjzX9mRTtwJOzDYB",
+    "name": "Spinn",
+    "id": "5gmgJUPTu5ApaV6Swjfb20",
+    "count": 1
+  },
+  {
+    "name": "Jay Park",
+    "id": "4XDi67ZENZcbfKnvMnTYsI",
     "count": 1
   },
   {
@@ -932,6 +1217,11 @@
   {
     "name": "Major Lazer",
     "id": "738wLrAtLtCtFOLvQBXOXp",
+    "count": 1
+  },
+  {
+    "name": "Amber Coffman",
+    "id": "4vpGVGgxSDcCTmqYbsOnsn",
     "count": 1
   },
   {
@@ -1010,6 +1300,11 @@
     "count": 1
   },
   {
+    "name": "Cutty",
+    "id": "3jhkLfgJKRu9Lb0AQd7fkB",
+    "count": 1
+  },
+  {
     "name": "Surfer Blood",
     "id": "0IlQRCafsMrd0QkTRBU6n0",
     "count": 1
@@ -1022,6 +1317,11 @@
   {
     "name": "Ellie Goulding",
     "id": "0X2BH1fck6amBIoJhDVmmJ",
+    "count": 1
+  },
+  {
+    "name": "Gant-Man",
+    "id": "0FRf7YoRwTB4L2HVVwzks4",
     "count": 1
   },
   {
@@ -1042,6 +1342,11 @@
   {
     "name": "Twin Shadow",
     "id": "6fLrPFLWLSCrp7gcTZXcKb",
+    "count": 1
+  },
+  {
+    "name": "D' Angelo Lacy",
+    "id": "0sF4LW21sezuIhTCJMr90h",
     "count": 1
   },
   {
@@ -1080,8 +1385,18 @@
     "count": 1
   },
   {
+    "name": "Slaughterhouse",
+    "id": "5rVbcJv0JRfhWLA3mgM73r",
+    "count": 1
+  },
+  {
     "name": "Foals",
     "id": "6FQqZYVfTNQ1pCqfkwVFEa",
+    "count": 1
+  },
+  {
+    "name": "Joe Fox",
+    "id": "2Dbnk0YRTPpKu46XzMf9nu",
     "count": 1
   },
   {
@@ -1105,8 +1420,8 @@
     "count": 1
   },
   {
-    "name": "Paul McCartney",
-    "id": "4STHEaNw4mPZ2tzheohgXB",
+    "name": "Wale",
+    "id": "67nwj3Y5sZQLl72VNUHEYE",
     "count": 1
   },
   {
@@ -1117,16 +1432,6 @@
   {
     "name": "San Fermin",
     "id": "7fSnislKgW9Mz0YIqWQmGt",
-    "count": 1
-  },
-  {
-    "name": "Hailee Steinfeld",
-    "id": "5p7f24Rk5HkUZsaS3BLG5F",
-    "count": 1
-  },
-  {
-    "name": "Big Sean",
-    "id": "0c173mlxpT3dSFRgMO8XPh",
     "count": 1
   },
   {
@@ -1150,6 +1455,11 @@
     "count": 1
   },
   {
+    "name": "Kacy Hill",
+    "id": "4dYQmk5ma04mZ1KJ9KkAQK",
+    "count": 1
+  },
+  {
     "name": "The Game",
     "id": "0NbfKEOTQCcwd6o7wSDOHI",
     "count": 1
@@ -1170,16 +1480,6 @@
     "count": 1
   },
   {
-    "name": "Carly Rae Jepsen",
-    "id": "6sFIWsNpZYqfjUpaCgueju",
-    "count": 1
-  },
-  {
-    "name": "Hannah Diamond",
-    "id": "3sXErEOw7EmO6Sj7EgjHdU",
-    "count": 1
-  },
-  {
     "name": "K/DA",
     "id": "4gOc8TsQed9eqnqJct2c5v",
     "count": 1
@@ -1187,6 +1487,16 @@
   {
     "name": "(G)I-DLE",
     "id": "2AfmfGFbe0A0WsTYm0SDTx",
+    "count": 1
+  },
+  {
+    "name": "Jaira Burns",
+    "id": "0tRFWXqKBBQcu5oFVOgVzX",
+    "count": 1
+  },
+  {
+    "name": "League of Legends",
+    "id": "47mIJdHORyRerp4os813jD",
     "count": 1
   },
   {
@@ -1235,8 +1545,23 @@
     "count": 1
   },
   {
+    "name": "Georgia Ku",
+    "id": "5mYakBbBzPMQTfkVMIgiDM",
+    "count": 1
+  },
+  {
     "name": "SZA",
     "id": "7tYKF4w9nC0nq9CsPZTHyP",
+    "count": 1
+  },
+  {
+    "name": "Zacari",
+    "id": "3qBKjEOanahMxlRojwCzhI",
+    "count": 1
+  },
+  {
+    "name": "Babes Wodumo",
+    "id": "3jfVtv9mWfW0c5b3Fx440e",
     "count": 1
   },
   {
@@ -1252,11 +1577,6 @@
   {
     "name": "Mabel",
     "id": "1MIVXf74SZHmTIp4V4paH4",
-    "count": 1
-  },
-  {
-    "name": "Shakka",
-    "id": "7fqDRFkiuwzFDde1K0taVs",
     "count": 1
   },
   {
@@ -1300,13 +1620,28 @@
     "count": 1
   },
   {
+    "name": "Lil Uzi Vert",
+    "id": "4O15NlyKLIASxsJ0PrXPfz",
+    "count": 1
+  },
+  {
     "name": "Uffie",
     "id": "2s6lxOYvvCvzpHtd3VyuMj",
     "count": 1
   },
   {
+    "name": "PARTYNEXTDOOR",
+    "id": "2HPaUgqeutzr3jx5a9WyDV",
+    "count": 1
+  },
+  {
     "name": "KYLE",
     "id": "4qBgvVog0wzW75IQ48mU7v",
+    "count": 1
+  },
+  {
+    "name": "Juicy J",
+    "id": "5gCRApTajqwbnHHPbr2Fpi",
     "count": 1
   },
   {
@@ -1385,6 +1720,11 @@
     "count": 1
   },
   {
+    "name": "Dent May",
+    "id": "34me8hAxavRmcDIwhxa3b7",
+    "count": 1
+  },
+  {
     "name": "Jenny Hval",
     "id": "5eerVxtb9lY9p6D7m89Bs7",
     "count": 1
@@ -1405,6 +1745,21 @@
     "count": 1
   },
   {
+    "name": "Mick Jones",
+    "id": "7zQmORVNaWz1cW1KJB2cTX",
+    "count": 1
+  },
+  {
+    "name": "Paul Simonon",
+    "id": "62bYKAZ5EdmG5Aca9dtVan",
+    "count": 1
+  },
+  {
+    "name": "Diplo",
+    "id": "5fMUXHkw8R8eOP2RNVYEZX",
+    "count": 1
+  },
+  {
     "name": "Vic Mensa",
     "id": "27w1NoOLMX7tJMYqcetPyG",
     "count": 1
@@ -1412,11 +1767,6 @@
   {
     "name": "Rustie",
     "id": "6YGu0Rv2120wkc4AXZSGgl",
-    "count": 1
-  },
-  {
-    "name": "Rita Ora",
-    "id": "5CCwRZC6euC8Odo6y9X8jr",
     "count": 1
   },
   {
@@ -1437,6 +1787,11 @@
   {
     "name": "Indiana",
     "id": "7a5Srm7U661DotL6VWRmYk",
+    "count": 1
+  },
+  {
+    "name": "Jess Glynne",
+    "id": "4ScCswdRlyA23odg9thgIO",
     "count": 1
   },
   {
@@ -1485,18 +1840,18 @@
     "count": 1
   },
   {
+    "name": "Zedd",
+    "id": "2qxJFvFYMEDqd7ui6kSAcq",
+    "count": 1
+  },
+  {
+    "name": "Iggy Azalea",
+    "id": "5yG7ZAZafVaAlMTeBybKAL",
+    "count": 1
+  },
+  {
     "name": "Duke Dumont",
     "id": "61lyPtntblHJvA7FMMhi7E",
-    "count": 1
-  },
-  {
-    "name": "Rick Ross",
-    "id": "1sBkRIssrMs1AbVkOJbc7a",
-    "count": 1
-  },
-  {
-    "name": "ILOVEMAKONNEN",
-    "id": "3aGFCoR8xGN6DKwvdzeSja",
     "count": 1
   },
   {
@@ -1505,8 +1860,23 @@
     "count": 1
   },
   {
+    "name": "Celeste",
+    "id": "0qsVanQ2NR6BUXodnoCM4L",
+    "count": 1
+  },
+  {
     "name": "Taylor Swift",
     "id": "06HL4z0CvFAxyc27GXpf02",
+    "count": 1
+  },
+  {
+    "name": "Black Coffee",
+    "id": "6wMr4zKPrrR0UVz08WtUWc",
+    "count": 1
+  },
+  {
+    "name": "Jorja Smith",
+    "id": "1CoZyIx7UvdxT5c8UkMzHd",
     "count": 1
   },
   {
@@ -1515,8 +1885,18 @@
     "count": 1
   },
   {
+    "name": "Kyary Pamyu Pamyu",
+    "id": "7Gh6fW49xfXLP8DTWaLVJP",
+    "count": 1
+  },
+  {
     "name": "DJ Khaled",
     "id": "0QHgL1lAIqAw0HtD7YldmP",
+    "count": 1
+  },
+  {
+    "name": "Chris Brown",
+    "id": "7bXgB6jMjp9ATFy66eO08Z",
     "count": 1
   },
   {
@@ -1530,13 +1910,13 @@
     "count": 1
   },
   {
-    "name": "LCD Soundsystem",
-    "id": "066X20Nz7iquqkkCW6Jxy6",
+    "name": "Jehnny Beth",
+    "id": "2WOMBqEsllg2ICn7D2L8ta",
     "count": 1
   },
   {
-    "name": "Sean Paul",
-    "id": "3Isy6kedDrgPYoTS1dazA9",
+    "name": "LCD Soundsystem",
+    "id": "066X20Nz7iquqkkCW6Jxy6",
     "count": 1
   },
   {
@@ -1552,6 +1932,21 @@
   {
     "name": "The-Dream",
     "id": "1W3FSF1BLpY3hlVIgvenLz",
+    "count": 1
+  },
+  {
+    "name": "Killer Mike",
+    "id": "2N4EYkIlG1kv25g6Wv8LGI",
+    "count": 1
+  },
+  {
+    "name": "Jeezy",
+    "id": "4yBK75WVCQXej1p04GWqxH",
+    "count": 1
+  },
+  {
+    "name": "Kelela",
+    "id": "1U0sIzpRtDkvu1hXXzxh60",
     "count": 1
   },
   {
@@ -1615,6 +2010,16 @@
     "count": 1
   },
   {
+    "name": "Dorian Electra",
+    "id": "202HZzqKvPsMHcbwnDZx7u",
+    "count": 1
+  },
+  {
+    "name": "Mykki Blanco",
+    "id": "2tSv9mEQSuNVMGr9qjYfkr",
+    "count": 1
+  },
+  {
     "name": "Rae Morris",
     "id": "67xyhWIvYQK5qr6b0gElst",
     "count": 1
@@ -1622,16 +2027,6 @@
   {
     "name": "Huncho Jack",
     "id": "6extd4B6hl8VTmnlhpl2bY",
-    "count": 1
-  },
-  {
-    "name": "Quavo",
-    "id": "0VRj0yCOv2FXJNP47XQnx5",
-    "count": 1
-  },
-  {
-    "name": "French Montana",
-    "id": "6vXTefBL93Dj5IqAWq6OTv",
     "count": 1
   },
   {

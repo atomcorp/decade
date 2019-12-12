@@ -29,16 +29,20 @@
       ],
       "features": [
         {
-          "name": "Frank Ocean"
+          "name": "Frank Ocean",
+          "id": "2h93pZq0e7k5yf4dywlkpM"
         },
         {
-          "name": "Mick Jones"
+          "name": "Mick Jones",
+          "id": "7zQmORVNaWz1cW1KJB2cTX"
         },
         {
-          "name": "Paul Simonon"
+          "name": "Paul Simonon",
+          "id": "62bYKAZ5EdmG5Aca9dtVan"
         },
         {
-          "name": "Diplo"
+          "name": "Diplo",
+          "id": "5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
       "id": "4hKGICUB890arImAdWRaHQ",
@@ -129,7 +133,8 @@
       ],
       "features": [
         {
-          "name": "Danny Brown"
+          "name": "Danny Brown",
+          "id": "7aA592KWirLsnfb5ulGWvU"
         }
       ],
       "id": "0xHajFt9da19XukzC2z1Sk",
@@ -307,7 +312,8 @@
       ],
       "features": [
         {
-          "name": "Jess Glynne"
+          "name": "Jess Glynne",
+          "id": "4ScCswdRlyA23odg9thgIO"
         }
       ],
       "id": "0TVV2gFROJaB3kIZyCUvIY",
@@ -369,7 +375,8 @@
       ],
       "features": [
         {
-          "name": "Sean Paul"
+          "name": "Sean Paul",
+          "id": "3Isy6kedDrgPYoTS1dazA9"
         }
       ],
       "id": "3dOBB8XZNu8aqi7JstoRZO",
@@ -431,7 +438,8 @@
       ],
       "features": [
         {
-          "name": "Chance the Rapper"
+          "name": "Chance the Rapper",
+          "id": "1anyVhU62p31KFi8MEzkbf"
         }
       ],
       "id": "65xGo48KiS0ONsGo9KrI66",
@@ -638,7 +646,8 @@
       ],
       "features": [
         {
-          "name": "Zedd"
+          "name": "Zedd",
+          "id": "2qxJFvFYMEDqd7ui6kSAcq"
         }
       ],
       "id": "1T7Htpf1kEvU9Adf8J0ekk",
@@ -671,7 +680,8 @@
       ],
       "features": [
         {
-          "name": "Iggy Azalea"
+          "name": "Iggy Azalea",
+          "id": "5yG7ZAZafVaAlMTeBybKAL"
         }
       ],
       "id": "6xCNYRfzZtoQRo1xruPmNq",
@@ -704,7 +714,8 @@
       ],
       "features": [
         {
-          "name": "Jax Jones"
+          "name": "Jax Jones",
+          "id": "4Q6nIcaBED8qUel8bBx6Cr"
         }
       ],
       "id": "4r8hRPbidDIoDPphxi78aY",
@@ -737,7 +748,8 @@
       ],
       "features": [
         {
-          "name": "A$AP Rocky"
+          "name": "A$AP Rocky",
+          "id": "13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
       "id": "6phKkVuSzTNEriX3uciCb5",
@@ -799,10 +811,12 @@
       ],
       "features": [
         {
-          "name": "Kanye West"
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Big Sean"
+          "name": "Big Sean",
+          "id": "0c173mlxpT3dSFRgMO8XPh"
         }
       ],
       "id": "2OmjhVnagJ8SVJDbj9eWrL",
@@ -835,7 +849,8 @@
       ],
       "features": [
         {
-          "name": "Drake"
+          "name": "Drake",
+          "id": "3TVXtAsR1Inumwj472S9r4"
         }
       ],
       "id": "4PWY72AubTjoZrohQt0pWn",
@@ -897,7 +912,8 @@
       ],
       "features": [
         {
-          "name": "Celeste"
+          "name": "Celeste",
+          "id": "0qsVanQ2NR6BUXodnoCM4L"
         }
       ],
       "id": "3q5AATAYobIW7Nz24EDk1T",
