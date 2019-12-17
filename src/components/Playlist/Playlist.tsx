@@ -15,6 +15,7 @@ const Playlist: React.FC = () => {
   }
   return (
     <section>
+      <br />
       <Link to="/">Back</Link>
       <br />
       <br />

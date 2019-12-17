@@ -1,59 +1,7 @@
 .container {
-  position: relative;
-  padding: 20px;
+  padding: 40px;
 }
 
-.background {
-  height: 100%;
-  width: 100%;
-  background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);
-  background: linear-gradient(to left, #8f94fb, #4e54c8);
-  position: fixed;
-}
-
-.background:before {
-  /* https://css-tricks.com/snippets/css/animated-grainy-texture/ */
-  animation: grain 8s steps(10) infinite;
-  content: ' ';
-  position: fixed;
-  width: 300%;
-  height: 300%;
-  background: url('/bedge-grunge.png');
-  opacity: 0.8;
-  left: -50%;
-  top: -100%;
-}
-
-@keyframes grain {
-  0%,
-  100% {
-    transform: translate(0, 0);
-  }
-  10% {
-    transform: translate(-5%, -10%);
-  }
-  20% {
-    transform: translate(-15%, 5%);
-  }
-  30% {
-    transform: translate(7%, -25%);
-  }
-  40% {
-    transform: translate(-5%, 25%);
-  }
-  50% {
-    transform: translate(-15%, 10%);
-  }
-  60% {
-    transform: translate(15%, 0%);
-  }
-  70% {
-    transform: translate(0%, 15%);
-  }
-  80% {
-    transform: translate(3%, 5%);
-  }
-  90% {
-    transform: translate(-10%, 10%);
-  }
+.title {
+  margin: 0;
 }

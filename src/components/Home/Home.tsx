@@ -5,9 +5,8 @@ import css from './Home.module.css';
 
 const Home: React.FC = () => (
   <>
-    <div className={css.background}></div>
     <section className={css.container}>
-      <h1>2010s</h1>
+      <h1 className={css.title}>2010s</h1>
       <Suspense fallback={<div>Loading</div>}>
         <Routes />
       </Suspense>
