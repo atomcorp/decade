@@ -10,3 +10,4 @@ It has a node script that grabbed the data. It's typescript and react, otherwise
 
 - Make it look fun
 - Provide some info about it
+- Fix routing issues using gh-pages (press refresh on a non-root route)
