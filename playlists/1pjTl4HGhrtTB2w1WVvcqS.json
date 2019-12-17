@@ -1,0 +1,1622 @@
+{
+  "name": "2019",
+  "id": "1pjTl4HGhrtTB2w1WVvcqS",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/6abb19948715d9ccc7ed468922d5f940d2ded73b815b8ac73e2d9c3d2ca8a26aba637241a56fb34bab67616d0000b2737fa652a997dc314f147c0fe2ab67616d0000b2738d632f1f8a336d4a8387409a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/6abb19948715d9ccc7ed468922d5f940d2ded73b815b8ac73e2d9c3d2ca8a26aba637241a56fb34bab67616d0000b2737fa652a997dc314f147c0fe2ab67616d0000b2738d632f1f8a336d4a8387409a",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/6abb19948715d9ccc7ed468922d5f940d2ded73b815b8ac73e2d9c3d2ca8a26aba637241a56fb34bab67616d0000b2737fa652a997dc314f147c0fe2ab67616d0000b2738d632f1f8a336d4a8387409a",
+      "width": 60
+    }
+  ],
+  "tracks": [
+    {
+      "rank": 0,
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "id": "3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "features": [],
+      "id": "7xPzc46jIlrvO5gzazcWMy",
+      "name": "Do Me",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737fa652a997dc314f147c0fe2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027fa652a997dc314f147c0fe2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517fa652a997dc314f147c0fe2",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 1,
+      "artists": [
+        {
+          "name": "Betta Lemme",
+          "id": "1WZLagiBdNltn918sr8kkw"
+        }
+      ],
+      "features": [],
+      "id": "6AR289urelEaw30CPwcUyI",
+      "name": "Play",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734d0451ee2a4da757a1497d96",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024d0451ee2a4da757a1497d96",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514d0451ee2a4da757a1497d96",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "id": "4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "features": [],
+      "id": "0x82ZV6zf2o5tOXIbN0aCF",
+      "name": "Door",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c19b9f3a4805ac98c2aba377",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c19b9f3a4805ac98c2aba377",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c19b9f3a4805ac98c2aba377",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "id": "33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "features": [],
+      "id": "4UBUHPYZG7Xw8oUbJLrEBk",
+      "name": "Drunk II",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738d632f1f8a336d4a8387409a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028d632f1f8a336d4a8387409a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518d632f1f8a336d4a8387409a",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "id": "6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "features": [
+        {
+          "name": "Toro y Moi",
+          "id": "6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "id": "0Zgcv1wy4bRWpfsM27uPGK",
+      "name": "Dark & Handsome",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c705e4061a1de1139ced6554",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c705e4061a1de1139ced6554",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c705e4061a1de1139ced6554",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "id": "4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "features": [],
+      "id": "6uEBCC605XCODjtwzae93h",
+      "name": "Caroline Shut Up",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6abb19948715d9ccc7ed468922d5f940d2ded73b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/889d8573e039c3f3e3cdbef79b0f44cc30d44bd1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/245839186a41f991cc88f5e066d9152eff0c43ba",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "artists": [
+        {
+          "name": "NIMMO",
+          "id": "76MojWoWNPzzKdrEspy5sl"
+        }
+      ],
+      "features": [],
+      "id": "2E4tg4nm3mPtUT4ZqXg65d",
+      "name": "No More",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e33fb7b79e08b6b744d8bd1c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e33fb7b79e08b6b744d8bd1c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e33fb7b79e08b6b744d8bd1c",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "artists": [
+        {
+          "name": "Sigrid",
+          "id": "4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "features": [],
+      "id": "1oLSje4Ot5qRUq8FqYeXOl",
+      "name": "Don’t Feel Like Crying",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273209cc915af734d0bc907c113",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02209cc915af734d0bc907c113",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851209cc915af734d0bc907c113",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "artists": [
+        {
+          "name": "Lizzo",
+          "id": "56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "features": [],
+      "id": "0onslUNmSLDkuYaideYWir",
+      "name": "Juice",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f4b609bc06c7c85971dfc7a8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f4b609bc06c7c85971dfc7a8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f4b609bc06c7c85971dfc7a8",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "artists": [
+        {
+          "name": "ITZY",
+          "id": "2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "features": [],
+      "id": "6G7DuXoSGeAf6BZivJdEjF",
+      "name": "달라달라 DALLA DALLA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b0482455f97768faae7fd606",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b0482455f97768faae7fd606",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b0482455f97768faae7fd606",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "artists": [
+        {
+          "name": "Kehlani",
+          "id": "0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "features": [
+        {
+          "name": "Ty Dolla $ign",
+          "id": "7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "id": "6ZRuF2n1CQxyxxAAWsKJOy",
+      "name": "Nights Like This (feat. Ty Dolla $ign)",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cccb973e9ff7440fbaf8485e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cccb973e9ff7440fbaf8485e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cccb973e9ff7440fbaf8485e",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "id": "1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "features": [],
+      "id": "507tQXutCPYNFkpOq8tmKF",
+      "name": "Don't Worry Bout Me",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e134d6b6a979b6a72b44ea8c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e134d6b6a979b6a72b44ea8c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e134d6b6a979b6a72b44ea8c",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "id": "3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "features": [],
+      "id": "4ZYFWXoHCIdsdgUdOMK9fr",
+      "name": "Movies",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dbb84e70b88afb20b07aa342",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dbb84e70b88afb20b07aa342",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dbb84e70b88afb20b07aa342",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "artists": [
+        {
+          "name": "Nilüfer Yanya",
+          "id": "09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "features": [],
+      "id": "56kKsNi8xoEwyvBCHaIxsU",
+      "name": "Melt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738812b1085e8c09bc49fc71c4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028812b1085e8c09bc49fc71c4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518812b1085e8c09bc49fc71c4",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "id": "3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "features": [],
+      "id": "1VEF5x1WU1P5FWa7iTLR7V",
+      "name": "Something to Believe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735676fba9c44ba772deb81727",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025676fba9c44ba772deb81727",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515676fba9c44ba772deb81727",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "artists": [
+        {
+          "name": "IDLES",
+          "id": "75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "features": [],
+      "id": "43QRuzdZ8Rvs77VjRL4n6i",
+      "name": "Mercedes Marxist",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737b8743a0c65be7ee350a8514",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027b8743a0c65be7ee350a8514",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517b8743a0c65be7ee350a8514",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "id": "4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "features": [],
+      "id": "2NSw8SOcQ6EVLf1QZFMH1h",
+      "name": "Thrash Metal Cassette",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739d5922acb4f1b61728c99624",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029d5922acb4f1b61728c99624",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519d5922acb4f1b61728c99624",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "id": "2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "features": [],
+      "id": "2NeSirLM2VHQW4upn0nMfB",
+      "name": "Starry Night - Edit",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27374ac2cdc993ce37687b3ead7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0274ac2cdc993ce37687b3ead7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485174ac2cdc993ce37687b3ead7",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "id": "4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Martin Solveig",
+          "id": "1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Madison Beer",
+          "id": "2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "features": [
+        {
+          "name": "Europa",
+          "id": "2NlKrNMdpYxGjt3Pvw87rC"
+        }
+      ],
+      "id": "33CfD8UkDEcSdAP9j4QpUY",
+      "name": "All Day And Night - Jax Jones & Martin Solveig Present Europa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ee9566e86edd2e898700f1891060a3811ced4f3c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/2ac1c7083a9ca6cd960529a4ed9ac3878995cef8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4f11d4e31f41ccab19515cc048e2833b8475bf37",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "id": "53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "features": [],
+      "id": "13JjdKeIUy6P916p3MemXn",
+      "name": "Do You Love Her Now",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c8bcec375525e027d13b1aa4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c8bcec375525e027d13b1aa4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c8bcec375525e027d13b1aa4",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "id": "3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "features": [
+        {
+          "name": "Lykke Li",
+          "id": "6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "id": "2jUO4Rbw8VizhpHS63jrq4",
+      "name": "Late Night Feelings (feat. Lykke Li)",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273de087ae2924d2c1654f60d74",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02de087ae2924d2c1654f60d74",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851de087ae2924d2c1654f60d74",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "id": "7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "features": [],
+      "id": "4no0eHn4fEB7tN1yZSXMma",
+      "name": "C7osure (You Like)",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c0e7bf5cdd630f314f20586a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c0e7bf5cdd630f314f20586a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c0e7bf5cdd630f314f20586a",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "artists": [
+        {
+          "name": "Anna Meredith",
+          "id": "5zDUidkda0GoYHu2vMr3G2"
+        }
+      ],
+      "features": [],
+      "id": "4bafFXVAdbD0MIZ1Uf5yvL",
+      "name": "Paramour",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27313f4a8b3fcdd97db23bf73c9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0213f4a8b3fcdd97db23bf73c9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485113f4a8b3fcdd97db23bf73c9",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "artists": [
+        {
+          "name": "Pongo",
+          "id": "17MjqHVqjHRfIKAKen6o34"
+        }
+      ],
+      "features": [],
+      "id": "67bppzPyY0uEvnDIdjzFq9",
+      "name": "Tambulaya",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7f2ab8577b0f9aede9f221e621c573a6e27b6129",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/4cd629ee5c41a59a2752bbb6486a179c2886e018",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/bc13896afe276bd995cde048578fcf9aa8c2ab46",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "artists": [
+        {
+          "name": "Squid",
+          "id": "685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "features": [],
+      "id": "3Q1Q4dftyBYbcCa0YFIhUD",
+      "name": "Houseplants",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273991b17013d42d41f74611400",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02991b17013d42d41f74611400",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851991b17013d42d41f74611400",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "artists": [
+        {
+          "name": "Bobby Krlic",
+          "id": "0e3tj3Rn5xXhUmOjn2cv1J"
+        }
+      ],
+      "features": [],
+      "id": "3gW27yBKGV7eC4XWzZLnn7",
+      "name": "Fire Temple",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27386376a507a0190c94beb6f76",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0286376a507a0190c94beb6f76",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485186376a507a0190c94beb6f76",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "artists": [
+        {
+          "name": "Thom Yorke",
+          "id": "4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "features": [],
+      "id": "0F4EoaMJmWNz8vS8tKgsqY",
+      "name": "Dawn Chorus",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bfcd8d6b28c07d92a902e1c2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bfcd8d6b28c07d92a902e1c2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bfcd8d6b28c07d92a902e1c2",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "id": "25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Sky Ferreira",
+          "id": "7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "features": [],
+      "id": "4Il330n53GprIcAO2GzwTN",
+      "name": "Cross You Out (feat. Sky Ferreira)",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739f2bc5837318443027f8b044",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029f2bc5837318443027f8b044",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519f2bc5837318443027f8b044",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "artists": [
+        {
+          "name": "Young Thug",
+          "id": "50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "features": [
+        {
+          "name": "Juice WRLD",
+          "id": "4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "id": "5TnLXSd4h6G06Fbt2ApOpa",
+      "name": "Mannequin Challenge (feat. Juice WRLD)",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736fcd1b6e205d0d19d9efa0cc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026fcd1b6e205d0d19d9efa0cc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516fcd1b6e205d0d19d9efa0cc",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "id": "2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "features": [],
+      "id": "2QXB9GugNcZqXrDXYowISU",
+      "name": "Time Flies",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733943a3a1fc6dd6b1df92398b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023943a3a1fc6dd6b1df92398b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513943a3a1fc6dd6b1df92398b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "artists": [
+        {
+          "name": "Headie One",
+          "id": "6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Skepta",
+          "id": "2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "features": [
+        {
+          "name": "Floating Points",
+          "id": "2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "id": "7JvuiP16UTKCnieS9E2Bg3",
+      "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a8222a8bb715585f961ae23b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a8222a8bb715585f961ae23b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a8222a8bb715585f961ae23b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "id": "3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "features": [],
+      "id": "3g2TGdc44s5ejDlDNVYC6g",
+      "name": "I Wish",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a1cacf19f73caa607c135eca",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a1cacf19f73caa607c135eca",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a1cacf19f73caa607c135eca",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "artists": [
+        {
+          "name": "February Montaine",
+          "id": "4dYcJuqnGemhY0ryge0j2R"
+        }
+      ],
+      "features": [],
+      "id": "5X1vE8rEc7dwydTM9mgtLB",
+      "name": "Kubler Rosa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737001bb478c9a7d41fa1af32b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027001bb478c9a7d41fa1af32b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517001bb478c9a7d41fa1af32b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "id": "4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "features": [],
+      "id": "5TxRUOsGeWeRl3xOML59Ai",
+      "name": "ARE WE STILL FRIENDS?",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027005885df706891a3c182a57",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517005885df706891a3c182a57",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "id": "5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "features": [],
+      "id": "1H42oqwHfdjSMHOcAiPfWY",
+      "name": "I'm Not Done - Still Not Done Mix",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c39f3238f306b792356a5639",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c39f3238f306b792356a5639",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c39f3238f306b792356a5639",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "id": "4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Kylie Minogue",
+          "id": "4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "features": [],
+      "id": "1k2BsR31RvvmQzINmvbNay",
+      "name": "Really don’t like u",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/15764fed7d2e8fb80be27451d95528819276d644",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/10643abcd943ea993e1dca3f555b9974acb0e83e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7a7ab2a43f8ec8eba1fa9016d158981b02ffa454",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "artists": [
+        {
+          "name": "Schacke",
+          "id": "3bphZJ7NojBKcoCeBOSJ5Z"
+        }
+      ],
+      "features": [],
+      "id": "0JK5Dq2DioG900WJ7PvDni",
+      "name": "Kisloty People",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731a691f4384492efe10c77166",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021a691f4384492efe10c77166",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511a691f4384492efe10c77166",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "artists": [
+        {
+          "name": "Wuh Oh",
+          "id": "48AHKCezlxWjPfE4FLf0b8"
+        }
+      ],
+      "features": [
+        {
+          "name": "Hudson Mohawke",
+          "id": "6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "id": "1rkFfXWkFtcZJsSK4xiWTE",
+      "name": "Pretty Boy - Hudson Mohawke Remix",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6e4e311486feee48b22a7be28aa5aac5d56d088c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/99d794dba4bcbcbfe35b185d228bdceacddc47f3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a5c4761b6a4628aed80f37848ab21655666f7d28",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "id": "2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "features": [],
+      "id": "0L1IszgjzIZRBENyHJTQms",
+      "name": "Dear Society",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737dea0aa103144aa9740835fd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027dea0aa103144aa9740835fd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517dea0aa103144aa9740835fd",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "features": [],
+      "id": "6YQlCOZnlFmqeciAh58fDE",
+      "name": "Orphans",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6874209ed7a2ecd4a42654fe2da16330919e5421",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c0bbf531b0cba11f3b6a0839df28152fa5315f04",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/244aff0cb2b3abdeb094ef9296f2f1aedc5ae8c0",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "artists": [
+        {
+          "name": "Floating Points",
+          "id": "2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "features": [],
+      "id": "3rkJH9BaiCWpRY718WTkBP",
+      "name": "Falaise",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d03dff7f5eeee485e5a45f62",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d03dff7f5eeee485e5a45f62",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d03dff7f5eeee485e5a45f62",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "artists": [
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "features": [],
+      "id": "2SasoXZyv82yYgHiVOvxQn",
+      "name": "On God",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8b49a035b93b16d52113dffba0a895a45f70a8ae",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/dbe175c8606372be21802ccbd6bf7f26ee6ed046",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cb54eddbad42d0f63ab85fd6ad8319c418c2fbe9",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "artists": [
+        {
+          "name": "BENEE",
+          "id": "0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "features": [],
+      "id": "7srhWu501PlhDz0FcLdvzt",
+      "name": "Monsta",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f8a6ecf05fe2be5825019997ef131a1df8f3f270",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/591b14688f001490ebb79d026e07a259823ce640",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/972be3d29bb299fbcaa0273764f670b502403c8e",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "features": [],
+      "id": "3eekarcy7kvN4yt5ZFzltW",
+      "name": "HIGHEST IN THE ROOM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e68dee85d7a026eadc5ae76e71efea0767479036",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/18781a6fd88e7ad199ef9c61ce01ee78c7fcd956",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3a6a1ddb77d5886cd77768734bdca254aba7cf8b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "artists": [
+        {
+          "name": "Naar",
+          "id": "2iHkY7NEHJSOF6O7rQaDww"
+        }
+      ],
+      "features": [
+        {
+          "name": "Madd",
+          "id": "7DBIKXxSh2BMPqSN7UB4rS"
+        },
+        {
+          "name": "Laylow",
+          "id": "0LnhY2fzptb0QEs5Q5gM7S"
+        },
+        {
+          "name": "Shobee",
+          "id": "5Et8bRmkENeaA7SPwj1OxL"
+        }
+      ],
+      "id": "5TLJ4XqxAdzHfsZkZFCY9t",
+      "name": "Money Call (with Shobee, Madd, Laylow)",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bb06625f20550499f10303e97b0a623800afeca8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/22ad73242914d1e7e355251575faa3ba9b173c20",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4488ecccfec268f597ace2af49d645b534978ee7",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "id": "6Mv8GjQa7LKUGCAqa9qqdb"
+        }
+      ],
+      "features": [
+        {
+          "name": "Vishal Dadlani",
+          "id": "6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "id": "39TJkE0AEkfWii8VB3JqSV",
+      "name": "Tu Meri",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736cd85195fad6ae44d6e322a1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026cd85195fad6ae44d6e322a1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516cd85195fad6ae44d6e322a1",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "artists": [
+        {
+          "name": "BENEE",
+          "id": "0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "features": [],
+      "id": "7IoV5eGR85wUOXjninlmNu",
+      "name": "Want Me Back",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273447289301b37e205337ddd61",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02447289301b37e205337ddd61",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851447289301b37e205337ddd61",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "artists": [
+        {
+          "name": "J Balvin",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "id": "4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "features": [],
+      "id": "0fea68AdmYNygeTGI4RC18",
+      "name": "LA CANCIÓN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024891d9b25d8919448388f3bb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514891d9b25d8919448388f3bb",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "features": [],
+      "id": "0sf12qNH5qcw8qpgymFOqD",
+      "name": "Blinding Lights",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/2ac634c217fba52b18e776e98f1d2c82889c59ed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1c0841cb921c5ff031e8cac0db8055e39e897a3b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cb638e3c44cdecacb88e050d50fbf255464b1790",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "id": "5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "features": [],
+      "id": "67Ar5yu8mH1rOVInvnsG0U",
+      "name": "Soapy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27369fd95d0a8501ae6fc3a7d35",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0269fd95d0a8501ae6fc3a7d35",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485169fd95d0a8501ae6fc3a7d35",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "artists": [
+        {
+          "name": "BAMBII",
+          "id": "6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "features": [
+        {
+          "name": "Pamputtae",
+          "id": "3qu3PIngYcX3SzOVcNGSTF"
+        }
+      ],
+      "id": "5Djuqh9OIH7JLd174ZPsRP",
+      "name": "NITEVISION",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/215c17ffbccbb97cfc50427f436ce14b54670f5b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1c5ad937fe4797955fa951ec94a88a0286beaa94",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4dcf51318482096f1b4ffc8aed3841a35e74113b",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "artists": [
+        {
+          "name": "ROSALÍA",
+          "id": "7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "J Balvin",
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "features": [
+        {
+          "name": "El Guincho",
+          "id": "1oMiDFyAgmIzw9ZBQYHOJI"
+        }
+      ],
+      "id": "2qG5sZ7Si6sdK74qLxedYM",
+      "name": "Con Altura",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27365b0e3e1bd8b5fe2f602c1ea",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0265b0e3e1bd8b5fe2f602c1ea",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485165b0e3e1bd8b5fe2f602c1ea",
+          "width": 64
+        }
+      ]
+    }
+  ]
+}
