@@ -8,7 +8,7 @@ const Playlist: React.FC = () => {
   const {playlistId} = useParams();
   const {payload} = useSuspenseQuery<playlistType>({
     method: 'GET',
-    endpoint: `/playlists/${playlistId}.json`,
+    endpoint: `${process.env.REACT_APP_PUBLIC_PATH}/playlists/${playlistId}.json`,
   });
   if (!payload) {
     return null;
